@@ -1,7 +1,7 @@
 ---
-title: Researchers
+title: Team
 nav:
-  order: 3
+  order: 1
   tooltip: About our unit
 ---
 
