@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The ELLIS Unit Graz is located at the Graz University of Technology (TU Graz) and tightly coupled to the Graz Center for Machine Learning (GraML) of TU Graz. Its activities are concentrated on foundational machine learning research with strong links to other scientific disciplines and industry. The unit's current research fields include Computer Vision, Non-smooth and Convex Optimization, Analysis of Learning Processes in the Brain through Theory and Large-scale Models, Bio-inspired and Energy-efficient Machine Learning, Domain Specialized Machine Learning and Trust, Resource-efficient Probabilistic Models for Intelligent Systems, Probabilistic Machine Learning and Tractable Inference, as well as Recommender Systems and Behavioral Analytics.
 
 {% include section.html %}
 
