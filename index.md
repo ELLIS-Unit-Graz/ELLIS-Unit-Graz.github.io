@@ -1,9 +1,9 @@
 ---
 ---
 
-# Welcome to the Website of the ELLIS Unit Graz
+# ELLIS Unit Graz
 
-This website is currently under construction and will be filled within the coming time. 
+Welcome to the website of the ELLIS Unit Graz. This website is currently under construction and will be filled within the coming months. 
 
 {% include section.html %}
 
