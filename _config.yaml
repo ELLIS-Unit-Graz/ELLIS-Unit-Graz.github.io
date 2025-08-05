@@ -9,11 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: contact@ELLIS-Unit-Graz.com
-  orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: ELLIS-Unit-Graz
-  twitter: ELLIS-Unit-Graz
-  youtube: ELLIS-Unit-Graz
 
 ### jekyll settings
 

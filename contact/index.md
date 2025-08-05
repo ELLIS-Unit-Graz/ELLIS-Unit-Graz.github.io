@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 4
+  order: 5
   tooltip: Email, address, and location
 ---
 
@@ -18,8 +18,8 @@ contact
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Our location on Google Maps"
+  link="https://www.google.com/maps?client=firefox-b-d&channel=entpr&um=1&ie=UTF-8&fb=1&gl=de&sa=X&geocode=KbXt0c6FSm5HMS3YVeXsd9F_&daddr=Inffeldgasse+25D,+8010+Graz,+Austria"
 %}
 
 {% include section.html %}
