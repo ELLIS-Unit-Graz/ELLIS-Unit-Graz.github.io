@@ -1,14 +1,11 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+name: Horst Bischof
+image: images/bischof.jpg
+role: Member
+affiliation: Technische Universität Graz
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof
+  orcid: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
