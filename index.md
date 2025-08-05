@@ -1,9 +1,9 @@
 ---
 ---
 
-# ELLIS-Unit-Graz's Website
+# Welcome to the Website of the ELLIS Unit Graz
 
-An engaging 1-3 sentence description of your lab.
+This website is currently under construction and will be filled within the coming time. 
 
 {% include section.html %}
 
