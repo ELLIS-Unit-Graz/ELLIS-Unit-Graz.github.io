@@ -1,6 +1,6 @@
 ---
 name: Olga Saukh
-image: images/saukh.jpg
+image: images/saukh.jpeg
 role: Member
 affiliation: Technische Universität Graz
 #aliases:
@@ -11,10 +11,8 @@ links:
 #  orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Associate Professor at the Institute of Technical Informatics at TU Graz
+
+Group leader Embedded Learning and Sensing Systems
+
+My research focuses on efficient machine learning and the design of practical AI-based systems at the intersection of deep learning and embedded systems. I am interested in both the theoretical foundations of deep learning optimization for resource-constrained devices and their practical applications in real-world systems.

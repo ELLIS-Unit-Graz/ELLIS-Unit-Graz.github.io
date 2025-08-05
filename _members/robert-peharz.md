@@ -11,5 +11,6 @@ links:
 #  orcid: 0000-0001-8713-9213
 ---
 
-Assistant Professor at TUG
+Assistant Professor at the Institute of Machine Learning and Neural Computation at TU Graz
+
 Research Interests: AI, probabilistic machine learning, inference, tractability, causality, active learning, Bayesian optimization, experimental design, physics-informed learning, neurosymbolic learning 
