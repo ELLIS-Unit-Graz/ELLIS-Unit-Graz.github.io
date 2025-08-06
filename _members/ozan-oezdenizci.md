@@ -1,6 +1,6 @@
 ---
 name: Ozan Özdenizci
-image: images/oezdenizci.jpg
+image: images/oezdenizci.JPG
 role: Member
 affiliation: Technische Universität Graz
 

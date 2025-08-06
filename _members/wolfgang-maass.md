@@ -1,6 +1,6 @@
 ---
 name: Wolfgang Maass
-image: images/maass.jpeg
+image: images/maass.jpg
 role: director
 affiliation: Technische Universität Graz
 aliases:
