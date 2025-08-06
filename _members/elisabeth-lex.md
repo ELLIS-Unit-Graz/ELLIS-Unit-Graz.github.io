@@ -2,10 +2,10 @@
 name: Elisabeth Lex
 image: images/lex.jpg
 role: Scholar
-affiliation: Technische Universität Graz
-#aliases:
- # - J. Smith
-  #- J Smith
+affiliation: Institute of Human-Centred Computing
+aliases:
+  - E. Lex
+  - E Lex
 links:
   home-page: https://elisabethlex.info/#
 #  orcid: 0000-0001-8713-9213

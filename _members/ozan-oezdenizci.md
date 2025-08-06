@@ -2,8 +2,10 @@
 name: Ozan Özdenizci
 image: images/oezdenizci.JPG
 role: Member
-affiliation: Technische Universität Graz
-
+affiliation: Institute of Machine Learning and Neural Computation
+aliases:
+  - O. Özdenizci
+  - O Özdenizci
 links:
   home-page: https://oozdenizci.github.io/
   #orcid: 0000-0001-8713-9213

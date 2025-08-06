@@ -2,13 +2,13 @@
 name: Franz Pernkopf
 image: images/pernkopf.jpg
 role: Member
-affiliation: Technische Universität Graz
-#aliases:
- # - J. Smith
-  #- J Smith
+affiliation: Institute of Signal Processing and Speech Communication
+aliases:
+  - F. Pernkopf
+  - F Pernkopf
 links:
   home-page: https://www.spsc.tugraz.at/people/franz-pernkopf.html
-#  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-6356-3367
 ---
 
 Professor at the Signal Processing and Speech Communication Laboratory at TU Graz.

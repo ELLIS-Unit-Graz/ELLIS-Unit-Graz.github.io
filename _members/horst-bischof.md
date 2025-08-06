@@ -3,6 +3,9 @@ name: Horst Bischof
 image: images/bischof.jpg
 role: Member
 affiliation: Technische Universität Graz
+aliases:
+  - H. Bischof
+  - H Bischof
 links:
   home-page: https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof
   orcid: 

@@ -2,10 +2,10 @@
 name: Wolfgang Maass
 image: images/maass.jpg
 role: director
-affiliation: Technische Universität Graz
+affiliation: Institute of Machine Learning and Neural Computation
 aliases:
-  - J. Smith
-  - J Smith
+  - W. Maass
+  - W Maass
 links:
   home-page: https://igi-web.tugraz.at/people/maass/
   #orcid: 0000-0001-8713-9213

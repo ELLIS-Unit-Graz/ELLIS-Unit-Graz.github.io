@@ -2,10 +2,10 @@
 name: Olga Saukh
 image: images/saukh.jpeg
 role: Member
-affiliation: Technische Universität Graz
-#aliases:
- # - J. Smith
-  #- J Smith
+affiliation: Institute of Technical Informatics
+aliases:
+  - O. Saukh
+  - O Saukh
 links:
   home-page: https://sites.google.com/view/olgasaukh/home
 #  orcid: 0000-0001-8713-9213

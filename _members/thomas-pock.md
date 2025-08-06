@@ -2,7 +2,10 @@
 name: Thomas Pock
 image: images/pock.png
 role: Member
-affiliation: Technische Universität Graz
+affiliation: Institute of Computer Graphics and Vision
+aliases:
+  - T. Pock
+  - T Pock
 links:
   home-page: https://www.tugraz.at/institute/icg/research/team-pock/people/pock/
   #orcid: 0000-0001-8713-9213

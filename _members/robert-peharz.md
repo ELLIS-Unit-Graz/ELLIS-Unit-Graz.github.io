@@ -2,10 +2,10 @@
 name: Robert Peharz
 image: images/peharz.jpg
 role: Scholar
-affiliation: Technische Universität Graz
-#aliases:
- # - J. Smith
-  #- J Smith
+affiliation: Institute of Machine Learning and Neural Computation
+aliases:
+  - R. Peharz
+  - R Peharz
 links:
   home-page: https://robert-peharz.github.io/
 #  orcid: 0000-0001-8713-9213
