@@ -5,7 +5,7 @@
 
 **Note:** This website is currently under construction and will be filled within the coming months. 
 
-The **ELLIS Unit Graz** is located at the Graz University of Technology [(TU Graz)](https://www.tugraz.at/en/home) and tightly coupled to the Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) at TU Graz. Its activities are concentrated on foundational machine learning research with strong links to other scientific disciplines and industry.
+The **ELLIS Unit Graz** is located at the Graz University of Technology [(TU Graz)](https://www.tugraz.at/en/home) and is tightly coupled to the Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) at TU Graz. Its activities are concentrated on foundational machine learning research with strong links to other scientific disciplines and industry.
 
 {% include section.html %}
 
@@ -38,7 +38,7 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {%
   include button.html
-  link="projects"
+  link=(https://sites.google.com/view/efficientml)
   text="Check out the website of the reading group"
   icon="fa-solid fa-arrow-right"
   flip=true

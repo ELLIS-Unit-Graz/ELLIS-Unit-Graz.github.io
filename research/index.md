@@ -9,10 +9,6 @@ nav:
 
 In our unit we work on a broad range of cutting-edge fundamental research topics to strenghten the development of high-level European AI.
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
 {% include section.html %}
 
 ## Featured
