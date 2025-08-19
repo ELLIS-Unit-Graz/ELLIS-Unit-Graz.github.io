@@ -7,16 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-hexagon-nodes" %}Our research topics
 
-In our unit we work on a broad range of cutting-edge fundamental research topics to strenghten the development of high-level European AI.
+In our unit we work on a broad range of cutting-edge fundamental research topics to strenghten the development of high-level AI in Europe.
 
 {% include section.html %}
 
-## Featured
+## Research Topics
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
+## Projects & Partners
+
+Our researchers are actively involved in various consortia, projects, and collaborations. 
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
