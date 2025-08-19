@@ -1,6 +1,6 @@
-- title: Computer Vision
+- title: Cool Dataset
   subtitle: a subtitle
-  group: topics
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -8,19 +8,9 @@
   tags:
     - resource
 
-- title: Non-Smooth and Convex Optimization
+- title: Cool Package
   subtitle: a subtitle
-  group: topics
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Domain Specialized Machine Learning and Trust
-  subtitle: a subtitle
-  group: topics
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -30,20 +20,28 @@
 
 - title: Graz Research Center for Machine Learning (GraML)
   subtitle: a subtitle
-  group: partners
   image: images/graml-logo.jpeg
   link: https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/
   description: The research network Graz Center for Machine Learning spans across all faculties of TU Graz and proves as a platform for interdisciplinary research to support the further development and use of machine learning in many domains.
   repo: greenelab/lab-website-template
   tags:
     - resource
+    - publication
 
-- title: Cluster of Excellence Bilateral AI (BilAI)
+- title: Cool Web App
   subtitle: a subtitle
-  group: partners
-  image: images/BilAI-kompakt-cluster-RGB.png
-  link: https://www.bilateral-ai.net/home
-  description: The project “Bilateral AI” aims at lifting artificial intelligence (AI) to the next level. Current AI systems are in a sense narrow. They center on a specific application or task such as object or speech recognition. Our project will combine two of the most important types of AI which have been developed separately so far: symbolic and sub-symbolic AI. While symbolic AI works with clearly defined logical rules, sub-symbolic AI (such as ChatGPT) is based on training a machine with the help of large datasets to create intelligent behavior. This integration, resulting in a Broad AI, is intended to mirror something that humans do naturally: the simultaneous use of cognition and reasoning skills.
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - software
+
+- title: Cool Web Server
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
