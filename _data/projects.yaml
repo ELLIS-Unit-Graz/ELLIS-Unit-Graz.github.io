@@ -18,11 +18,11 @@
   tags:
     - resource
 
-- title: Graz Research Center for Machine Learning (GraML)
+- title: Cool Tutorial
   subtitle: a subtitle
-  image: images/graml-logo.jpeg
-  link: https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/
-  description: The research network Graz Center for Machine Learning spans across all faculties of TU Graz and proves as a platform for interdisciplinary research to support the further development and use of machine learning in many domains.
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
