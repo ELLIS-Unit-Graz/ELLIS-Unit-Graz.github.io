@@ -1,5 +1,5 @@
 ---
-title: About
+title: About ELLIS
 nav:
   order: 4
   tooltip: What is ELLIS?
