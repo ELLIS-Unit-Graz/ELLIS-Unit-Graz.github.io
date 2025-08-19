@@ -26,7 +26,7 @@ In our Unit we work on a broad range of cutting-edge fundamental research topics
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ELLIS-Society-Photo-50.jpg"
   link="research"
   title="Our Research"
   text=text
