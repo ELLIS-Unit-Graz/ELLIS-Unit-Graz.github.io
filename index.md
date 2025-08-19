@@ -38,7 +38,7 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {%
   include button.html
-  link=(https://sites.google.com/view/efficientml)
+  link="projects"
   text="Check out the website of the reading group"
   icon="fa-solid fa-arrow-right"
   flip=true
