@@ -1,320 +1,191 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.05.15.654220
-  title: Behavioral Time Scale Synaptic Plasticity (BTSP) endows Hyperdimensional
-    Computing with attractor features
+- id: doi:10.1101/2025.06.19.660613
+  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
   authors:
-  - Chengting Yu
-  - Yujie Wu
-  - Aili Wang
-  - Wolfgang Maass
+  - Dave Bunten
+  - Jenna Tomkinson
+  - Erik Serrano
+  - Michael J. Lippincott
+  - Kenneth I. Brewer
+  - Vince Rubinetti
+  - Faisal Alquaddoomi
+  - Gregory P. Way
   publisher: Cold Spring Harbor Laboratory
-  date: '2025-05-20'
-  link: https://doi.org/g9xhfj
-  orcid: 0000-0002-1178-087X
+  date: '2025-06-25'
+  link: https://doi.org/g9rfr3
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41467-025-56459-9
-  title: 'Author Correction: A simple model for Behavioral Time Scale Synaptic Plasticity
-    (BTSP) provides content addressable memory with binary synapses and one-shot learning'
+- id: doi:10.1093/nar/gkad1082
+  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
+    \ genes\_and diseases across species"
   authors:
-  - Yujie Wu
-  - Wolfgang Maass
-  publisher: Nature Communications
-  date: '2025-01-29'
-  link: https://doi.org/g9xhfk
-  orcid: 0000-0002-1178-087X
+  - Tim E Putman
+  - Kevin Schaper
+  - Nicolas Matentzoglu
+  - "Vincent\_P Rubinetti"
+  - "Faisal\_S Alquaddoomi"
+  - Corey Cox
+  - J Harry Caufield
+  - Glass Elsarboukh
+  - Sarah Gehrke
+  - Harshad Hegde
+  - "Justin\_T Reese"
+  - Ian Braun
+  - "Richard\_M Bruskiewich"
+  - Luca Cappelletti
+  - Seth Carbon
+  - "Anita\_R Caron"
+  - "Lauren\_E Chan"
+  - "Christopher\_G Chute"
+  - "Katherina\_G Cortes"
+  - "Vin\xEDcius De\_Souza"
+  - Tommaso Fontana
+  - "Nomi\_L Harris"
+  - "Emily\_L Hartley"
+  - Eric Hurwitz
+  - "Julius\_O B Jacobsen"
+  - Madan Krishnamurthy
+  - "Bryan\_J Laraway"
+  - "James\_A McLaughlin"
+  - "Julie\_A McMurry"
+  - "Sierra\_A T Moxon"
+  - "Kathleen\_R Mullen"
+  - "Shawn\_T O\u2019Neil"
+  - "Kent\_A Shefchek"
+  - Ray Stefancsik
+  - Sabrina Toro
+  - "Nicole\_A Vasilevsky"
+  - "Ramona\_L Walls"
+  - "Patricia\_L Whetzel"
+  - David Osumi-Sutherland
+  - Damian Smedley
+  - "Peter\_N Robinson"
+  - "Christopher\_J Mungall"
+  - "Melissa\_A Haendel"
+  - "Monica\_C Munoz-Torres"
+  publisher: Nucleic Acids Research
+  date: '2023-11-24'
+  link: https://doi.org/gs6kmr
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41467-024-55563-6
-  title: A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides
-    content addressable memory with binary synapses and one-shot learning
+- id: doi:10.1101/2023.10.11.560955
+  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
   authors:
-  - Yujie Wu
-  - Wolfgang Maass
-  publisher: Nature Communications
-  date: '2025-01-02'
-  link: https://doi.org/g9xhfm
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/JPROC.2025.3539916
-  title: "Corrections to \u201CBrain-Inspired Computing: A Systematic Survey and Future\
-    \ Trends\u201D"
-  authors:
-  - Guoqi Li
-  - Lei Deng
-  - Huajin Tang
-  - Gang Pan
-  - Yonghong Tian
-  - Kaushik Roy
-  - Wolfgang Maass
-  publisher: Proceedings of the IEEE
-  date: '2024-12-01'
-  link: https://doi.org/g9xhfn
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nsr/nwad301
-  title: How can neuromorphic hardware attain brain-like functional capabilities?
-  authors:
-  - Wolfgang Maass
-  publisher: National Science Review
-  date: '2023-12-01'
-  link: https://doi.org/g9xhfp
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-024-46586-0
-  title: Local prediction-learning in high-dimensional spaces enables neural networks
-    to plan
-  authors:
-  - "Christoph St\xF6ckl"
-  - Yukun Yang
-  - Wolfgang Maass
-  publisher: Nature Communications
-  date: '2024-03-15'
-  link: https://doi.org/g9xhfq
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/JPROC.2024.3429360
-  title: 'Brain-Inspired Computing: A Systematic Survey and Future Trends'
-  authors:
-  - Guoqi Li
-  - Lei Deng
-  - Huajin Tang
-  - Gang Pan
-  - Yonghong Tian
-  - Kaushik Roy
-  - Wolfgang Maass
-  publisher: Proceedings of the IEEE
-  date: '2024-06-01'
-  link: https://doi.org/g9xhfr
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.04.04.535572
-  title: A simple model for Behavioral Time Scale Synaptic Plasticity provides content
-    addressable memory with binary synapses and one-shot learning
-  authors:
-  - Yujie Wu
-  - Wolfgang Maass
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-04-04'
-  link: https://doi.org/g9xhfs
-  orcid: 0000-0002-1178-087X
+  date: '2023-10-11'
+  link: https://doi.org/gsvf5z
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1126/sciadv.abq7592
-  title: A data-based large-scale model for primary visual cortex enables brain-like
-    robust and versatile visual processing
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
   authors:
-  - Guozhang Chen
-  - Franz Scherr
-  - Wolfgang Maass
-  publisher: Science Advances
-  date: '2022-11-04'
-  link: https://doi.org/gq59g2
-  orcid: 0000-0002-1178-087X
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s42256-022-00480-w
-  title: A Long Short-Term Memory for AI Applications in Spike-based Neuromorphic
-    Hardware
+- id: doi:10.1101/2023.01.05.522941
+  title: Hetnet connectivity search provides rapid insights into how two biomedical
+    entities are related
   authors:
-  - Arjun Rao
-  - Philipp Plank
-  - Andreas Wild
-  - Wolfgang Maass
-  publisher: Nature Machine Intelligence
-  date: '2022-05-19'
-  link: https://doi.org/gp68s5
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.11.17.469025
-  title: Analysis of the computational strategy of a detailed laminar cortical microcircuit
-    model for solving the image-change-detection task
-  authors:
-  - Franz Scherr
-  - Wolfgang Maass
+  - Daniel S. Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J. Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N. Nicholson
+  - Yun Hao
+  - Blair D. Sullivan
+  - Michael W. Nagle
+  - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
-  date: '2021-11-19'
-  link: https://doi.org/g9xhft
-  orcid: 0000-0002-1178-087X
+  date: '2023-01-07'
+  link: https://doi.org/grmcb9
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.65459
-  title: Spike frequency adaptation supports network computations on temporally dispersed
-    information
+- id: doi:10.1093/gigascience/giad047
+  title: Hetnet connectivity search provides rapid insights into how biomedical entities
+    are related
   authors:
-  - Darjan Salaj
-  - Anand Subramoney
-  - Ceca Kraisnikovic
-  - Guillaume Bellec
-  - Robert Legenstein
-  - Wolfgang Maass
-  publisher: eLife
-  date: '2021-07-26'
-  link: https://doi.org/gmfnrw
-  orcid: 0000-0002-1178-087X
+  - Daniel S Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N Nicholson
+  - Yun Hao
+  - Blair D Sullivan
+  - Michael W Nagle
+  - Casey S Greene
+  publisher: GigaScience
+  date: '2022-12-28'
+  link: https://doi.org/gsd85n
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.07.14.452347
-  title: Spike-based symbolic computations on bit strings and numbers
+- id: doi:10.1101/2022.02.18.461833
+  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
+    and phylogeny'
   authors:
-  - "Ceca Krai\u0161nikovi\u0107"
-  - Wolfgang Maass
-  - Robert Legenstein
+  - Jacob D Krol
+  - Joseph T Burke
+  - Samuel Z Chen
+  - Lo M Sosinski
+  - Faisal S Alquaddoomi
+  - Evan P Brenner
+  - Ethan P Wolfe
+  - Vincent P Rubinetti
+  - Shaddai Amolitos
+  - Kellen M Reason
+  - John B Johnston
+  - Janani Ravi
   publisher: Cold Spring Harbor Laboratory
-  date: '2021-07-14'
-  link: https://doi.org/g9xhfv
-  orcid: 0000-0002-1178-087X
+  date: '2022-02-22'
+  link: https://doi.org/gstx7j
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.05.18.444689
-  title: Structure induces computational function in networks with diverse types of
-    spiking neurons
+- id: doi:10.1186/s13059-020-02021-3
+  title: Compressing gene expression data using multiple latent space dimensionalities
+    learns complementary biological representations
   authors:
-  - Christoph Stoeckl
-  - Dominik Lang
-  - Wolfgang Maass
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-05-18'
-  link: https://doi.org/gj5mpn
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s42256-021-00311-4
-  title: Optimized spiking neurons can classify images with high accuracy through
-    temporal coding with two spikes
-  authors:
-  - "Christoph St\xF6ckl"
-  - Wolfgang Maass
-  publisher: Nature Machine Intelligence
-  date: '2021-03-11'
-  link: https://doi.org/gj5mpt
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.03.04.433822
-  title: 'Self-supervised learning of probabilistic prediction through synaptic plasticity
-    in apical dendrites: A normative model'
-  authors:
-  - Arjun Rao
-  - Robert Legenstein
-  - Anand Subramoney
-  - Wolfgang Maass
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-03-04'
-  link: https://doi.org/g9xhfx
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.01.25.428153
-  title: Revisiting the role of synaptic plasticity and network dynamics for fast
-    learning in spiking neural networks
-  authors:
-  - Anand Subramoney
-  - Guillaume Bellec
-  - Franz Scherr
-  - Robert Legenstein
-  - Wolfgang Maass
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-01-27'
-  link: https://doi.org/ghwqgs
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-020-17236-y
-  title: A solution to the learning dilemma for recurrent networks of spiking neurons
-  authors:
-  - Guillaume Bellec
-  - Franz Scherr
-  - Anand Subramoney
-  - Elias Hajek
-  - Darjan Salaj
-  - Robert Legenstein
-  - Wolfgang Maass
-  publisher: Nature Communications
-  date: '2020-07-17'
-  link: https://doi.org/gg9fth
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.06.17.156513
-  title: One-shot learning with spiking neural networks
-  authors:
-  - Franz Scherr
-  - "Christoph St\xF6ckl"
-  - Wolfgang Maass
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-06-19'
-  link: https://doi.org/gg9ftg
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1523/ENEURO.0533-19.2020
-  title: A Model for Structured Information Representation in Neural Networks of the
-    Brain
-  authors:
-  - "Michael G. M\xFCller"
-  - Christos H. Papadimitriou
-  - Wolfgang Maass
-  - Robert Legenstein
-  publisher: eneuro
-  date: '2020-05-01'
-  link: https://doi.org/gpx6h4
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/TBCAS.2019.2906401
-  title: Efficient Reward-Based Structural Plasticity on a SpiNNaker 2 Prototype
-  authors:
-  - Yexin Yan
-  - David Kappel
-  - Felix Neumarker
-  - Johannes Partzsch
-  - Bernhard Vogginger
-  - Sebastian Hoppner
-  - Steve Furber
-  - Wolfgang Maass
-  - Robert Legenstein
-  - Christian Mayr
-  publisher: IEEE Transactions on Biomedical Circuits and Systems
-  date: '2019-06-01'
-  link: https://doi.org/g9xhfz
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1523/ENEURO.0301-17.2018
-  title: A Dynamic Connectome Supports the Emergence of Stable Computational Function
-    of Neural Circuits through Reward-Based Learning
-  authors:
-  - David Kappel
-  - Robert Legenstein
-  - Stefan Habenschuss
-  - Michael Hsieh
-  - Wolfgang Maass
-  publisher: eneuro
-  date: '2018-03-01'
-  link: https://doi.org/gnj9sk
-  orcid: 0000-0002-1178-087X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1523/JNEUROSCI.2078-16.2017
-  title: Feedback Inhibition Shapes Emergent Computational Properties of Cortical
-    Microcircuit Motifs
-  authors:
-  - Zeno Jonke
-  - Robert Legenstein
-  - Stefan Habenschuss
-  - Wolfgang Maass
-  publisher: The Journal of Neuroscience
-  date: '2017-07-31'
-  link: https://doi.org/gbt866
-  orcid: 0000-0002-1178-087X
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Genome Biology
+  date: '2020-05-11'
+  link: https://doi.org/gg2mjh
+  orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -330,6 +201,9 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
+  orcid: 0000-0002-4655-3773
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -346,8 +220,21 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
+- id: doi:10.1101/573782
+  title: Sequential compression of gene expression across dimensionalities and methods
+    reveals no single best method or dimensionality
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-03-11'
+  link: https://doi.org/gfxjxf
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
