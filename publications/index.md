@@ -5,7 +5,7 @@ nav:
   tooltip: Key publications from our Unit
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Key publications from our Unit
+# {% include icon.html icon="fa-solid fa-newspaper" %}Key publications from our Unit
 
 See below a list of key publications from members of the ELLIS Unit Graz.
 

@@ -5,7 +5,7 @@ nav:
   tooltip: Our research topics
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Our research topics
+# {% include icon.html icon="fa-solid fa-hexagon-nodes" %}Our research topics
 
 In our unit we work on a broad range of cutting-edge fundamental research topics to strenghten the development of high-level European AI.
 
