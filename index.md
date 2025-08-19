@@ -11,12 +11,12 @@ The **ELLIS Unit Graz** is located at the Graz University of Technology [(TU Gra
 
 {% capture text %}
 
-In our Unit we work on a broad range of cutting-edge fundamental research topics to strenghten the development of high-level AI in Europe.
+In our Unit we work on a broad range of cutting-edge fundamental research topics in the field of Machine Learning to strenghten the development of high-level AI in Europe. Our research topics include ... . 
 
 {%
   include button.html
   link="research"
-  text="Explore our expertise"
+  text="Learn more about our expertise"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
