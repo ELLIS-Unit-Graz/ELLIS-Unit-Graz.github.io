@@ -16,7 +16,7 @@ In our Unit we combine high-level expertise from various topics within the field
 {%
   include button.html
   link="research"
-  text="Learn more about our expertise"
+  text="Learn more about our research topics"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

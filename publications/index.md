@@ -11,14 +11,6 @@ See below a list of key publications from members of the ELLIS Unit Graz.
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
 {% include search-box.html %}
 
 {% include search-info.html %}
