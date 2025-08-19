@@ -11,6 +11,6 @@ nav:
 
 {% include figure.html image="images/ELLIS_Society.png"%}
 
-[Learn more about ELLIS:](https://www.ellis.eu)
+Learn more about ELLIS [here](https://www.ellis.eu).
 
 {% include list.html component="card" data="about" filter="!group" style="small" %}
