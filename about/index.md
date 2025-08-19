@@ -11,6 +11,8 @@ nav:
 
 The **ELLIS Unit Graz** is located at the Graz University of Technology (TU Graz) and tightly coupled to the Graz Center for Machine Learning (GraML) of TU Graz. Its activities are concentrated on foundational machine learning research with strong links to other scientific disciplines and industry.
 
+{% include figure.html image="ELLIS Society.png" link="ellis.eu" %}
+
 {% include section.html %}
 
 ## More
