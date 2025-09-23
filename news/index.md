@@ -5,12 +5,75 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-earth-europe" %} About ELLIS 
+# News from the ELLIS Unit Graz
 
-**ELLIS** (European Laboratory for Learning and Intelligent Systems) is a pan-European AI network of excellence founded in 2018. It builds upon machine learning as the driving force of modern AI and aims to secure lasting international leadership in AI developed in Europe. By fostering collaboration among top researchers and creating a multi-centric research laboratory, ELLIS ensures that Europe remains at the forefront of cutting-edge AI innovation. The network has grown to include 43 ELLIS Sites at world-class institutions across 16 countries, 16 specialised research programs, and a pan-European PhD/Postdoc program. Through these efforts, ELLIS shapes the future of artificial intelligence in alignment with Europe’s values of openness, collaboration, and societal impact. 
+{% capture text %}
 
-{% include figure.html image="images/ELLIS_Society.png"%}
+Workshop at ELLIS UNConference 
 
-Learn more about ELLIS [here](https://www.ellis.eu).
+{%
+  include button.html
+  link="research"
+  text="Learn more about our research topics"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-{% include list.html component="card" data="about" filter="!group" style="small" %}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ELLIS-Society-Photo-50.jpg"
+  link="research"
+  title="Workshop at ELLIS Unconference"
+  text=text
+%}
+
+{% capture text %}
+
+This reading group aims to help onboard young scientists interested in the topic of efficient ML and offers researchers at all levels a platform for an open dialog to foster collaboration, and stay up-to-date with rapid developments in the field. We welcome and discuss fresh research findings published as a pre-print or recently presented at research venues. 
+
+{%
+  include button.html
+  link="projects"
+  text="Check out the website of the reading group"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/readinggroup.png"
+  link="projects"
+  title="Efficient ML Reading Group"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Our Unit consist of high-level researchers in the field of AI.
+
+{%
+  include button.html
+  link="team"
+  text="Meet the members of our Unit"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
