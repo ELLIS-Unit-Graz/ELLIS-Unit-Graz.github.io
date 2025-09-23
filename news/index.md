@@ -1,8 +1,8 @@
 ---
-title: About ELLIS
+title: News
 nav:
-  order: 5
-  tooltip: What is ELLIS
+  order: 1
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-earth-europe" %} About ELLIS 

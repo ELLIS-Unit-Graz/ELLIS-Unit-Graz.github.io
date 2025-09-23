@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 1
+  order: 4
   tooltip: Our Members
 ---
 
