@@ -9,12 +9,12 @@ nav:
 
 {% capture text %}
 
-Workshop at ELLIS UNConference 
+We are happy to announce that together with the ELLIS Unit Nijmegen, we will host a Workshop at the ELLIS UNConference on December 2, 2025 in Copenhagen titled "Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence". 
 
 {%
   include button.html
   link="research"
-  text="Learn more about our research topics"
+  text="Learn more about the content and register here"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,18 +26,18 @@ Workshop at ELLIS UNConference
   include feature.html
   image="images/ELLIS-Society-Photo-50.jpg"
   link="research"
-  title="Workshop at ELLIS Unconference"
+  title="Workshop: Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
   text=text
 %}
 
 {% capture text %}
 
-This reading group aims to help onboard young scientists interested in the topic of efficient ML and offers researchers at all levels a platform for an open dialog to foster collaboration, and stay up-to-date with rapid developments in the field. We welcome and discuss fresh research findings published as a pre-print or recently presented at research venues. 
+. 
 
 {%
   include button.html
   link="projects"
-  text="Check out the website of the reading group"
+  text="."
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -47,9 +47,9 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {%
   include feature.html
-  image="images/readinggroup.png"
+  image="images/photo.jpg"
   link="projects"
-  title="Efficient ML Reading Group"
+  title="Newsitem"
   flip=true
   style="bare"
   text=text
@@ -57,12 +57,12 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {% capture text %}
 
-Our Unit consist of high-level researchers in the field of AI.
+.
 
 {%
   include button.html
   link="team"
-  text="Meet the members of our Unit"
+  text="Newsitem"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,6 +74,6 @@ Our Unit consist of high-level researchers in the field of AI.
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Newsitem"
   text=text
 %}
