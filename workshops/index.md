@@ -37,21 +37,21 @@ This workshop aims to bring together researchers and practitioners from diverse 
 ** Important Dates **
 
 
--    Submission Deadline: **October 10, 2025**, AoE
+-    Submission Deadline: **October 20, 2025**, AoE
 
 -    Accept/Reject Notifications: October 31, 2025, AoE
 
 -    Workshop: December 2, 2025
 
 
-You can submit your extended abstract on the following email: [Randi Goertz](maiilto:randi.goertz@tugraz.at)
+You can submit your extended abstract on the following email: [Randi Goertz](mailto:randi.goertz@tugraz.at)
 
 
 # Workshop Agenda (Tentative)
 
 The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [EurIPS Copenhagen](https://eurips.cc/) and will take place on **December 2, 2025**.
-**Time** | **Session**
 
+**Time** | **Session**
 8:00 - 9:00 | Registration  
 9:00 - 10:30 | Workshops  
 10:30 - 11:00 | Coffee break  
