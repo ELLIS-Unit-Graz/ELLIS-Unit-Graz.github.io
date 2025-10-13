@@ -8,7 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: 
+  email: randi.goertz@ellis.eu
   github: ELLIS-Unit-Graz
 
 ### jekyll settings

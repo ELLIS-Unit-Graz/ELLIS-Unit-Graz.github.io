@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-Upcoming & regular events
+## Upcoming & regular events
 
 {% capture text %}
 
@@ -61,7 +61,7 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {% include section.html %}
 
-Past events
+## Past events
 
 {% capture text %}
 
