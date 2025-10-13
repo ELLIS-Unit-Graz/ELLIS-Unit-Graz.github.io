@@ -6,7 +6,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - topic
+    - 
 
 - title: Resource-efficient Deep Learning
   subtitle: 
@@ -16,7 +16,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - topic
+    - 
 
 - title: Human-centred Computing
   subtitle: 
@@ -26,7 +26,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - topic
+    - 
 
 - title: Trustworthy AI
   subtitle: 
@@ -36,7 +36,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - topic
+    - 
 
 - title: Visual Computing
   subtitle: 
@@ -46,7 +46,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - topic
+    - 
 
 - title: Probabilistic Machine Learning
   subtitle: 
@@ -56,7 +56,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - topic
+    - 
 
 - title: GraML: Graz Research Center for Machine Learning
   subtitle: a subtitle
@@ -65,7 +65,7 @@
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - network
+    - 
 
 - title: FWF Cluster of Excellence Bilateral AI
   subtitle: a subtitle
