@@ -34,7 +34,7 @@ This workshop aims to bring together researchers and practitioners from diverse 
 
 
 
-** Important Dates **
+**Important Dates**
 
 
 -    Submission Deadline: **October 20, 2025**, AoE
@@ -62,4 +62,4 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 15:00 - 15:30 | Coffee  
 15:30 - 16:00 | Welcoming Remarks  
 16:00 - 18:00 | Poster Session  
-18:00 - 20:00 | Opening Reception
+18:00 - 20:00 | Reception
