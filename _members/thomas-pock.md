@@ -1,7 +1,7 @@
 ---
 name: Thomas Pock
 image: images/pock.jpeg
-role: member
+role: Member
 affiliation: Institute of Computer Graphics and Vision
 aliases:
   - T. Pock
