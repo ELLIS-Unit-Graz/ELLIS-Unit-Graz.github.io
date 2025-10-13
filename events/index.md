@@ -13,7 +13,7 @@ Upcoming & regular events
 
 {% capture text %}
 
-We are happy to announce that together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdisciplinair/ellis-unit), we will host a workshop at the [ELLIS UnConference](https://eurips.cc/ellis/) on December 2, 2025 prior to EurIPS 2025 in Copenhagen. **Call for submissions is open until October 20!**
+We are happy to announce that together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdisciplinair/ellis-unit), we will host a workshop at the [ELLIS UnConference](https://eurips.cc/ellis/) on December 2, 2025 prior to EurIPS 2025 in Copenhagen. **Call for contributions is open until October 20!**
 
 {%
   include button.html
