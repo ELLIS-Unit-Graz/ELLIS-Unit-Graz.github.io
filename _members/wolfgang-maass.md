@@ -1,7 +1,7 @@
 ---
 name: Wolfgang Maass
 image: images/maass.jpg
-role: Director, Fellow
+role: Fellow
 affiliation: Institute of Machine Learning and Neural Computation
 aliases:
   - W. Maass

@@ -5,11 +5,11 @@ nav:
   tooltip: 
 ---
 
-# Events at the ELLIS Unit Graz
+# {% include icon.html icon="fa-solid fa-calendar-days" %}Events at/with the ELLIS Unit Graz
 
 {% capture text %}
 
-We are happy to announce that together with the ELLIS Unit Nijmegen, we will host a Workshop at the ELLIS UNConference on December 2, 2025 in Copenhagen titled "Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence". 
+We are happy to announce that together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdisciplinair/ellis-unit), we will host a workshop at the [ELLIS UnConference](https://eurips.cc/ellis/) on December 2, 2025 prior to EurIPS 2025 in Copenhagen. 
 
 {%
   include button.html
@@ -26,7 +26,7 @@ We are happy to announce that together with the ELLIS Unit Nijmegen, we will hos
   include feature.html
   image="images/ELLIS-Society-Photo-67.jpg"
   link="research"
-  title="Workshop: Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
+  title="Workshop on Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
   text=text
 %}
 
