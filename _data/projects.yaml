@@ -60,7 +60,7 @@
 
 - title: Mathematics & Efficiency of Deep Learning
   subtitle: public ELLIS Reading Group
-  image: images/readinggroup.png
+  image: images/photo.jpg
   link: https://sites.google.com/view/efficientml
   description: This reading group examines the interplay between the theoretical foundations of deep learning and the practical challenge of making machine learning efficient. On the theory side, we study mathematical insights into optimization, generalization, architectures, and training dynamics, exploring how these principles explain why modern networks learn and generalize. On the efficiency side, we investigate how these theoretical insights inform resource-aware and scalable ML, including algorithmic improvements, architecture design, and hardware-aware training. By linking rigorous theory with practical efficiency, the group aims to understand not only why deep learning works, but also how to make it faster, cheaper, and more sustainable in real-world applications, while staying current with cutting-edge research.
   repo: greenelab/lab-website-template
@@ -70,7 +70,7 @@
 
 - title: Research Center GraML
   subtitle: Graz Center for Machine Learning
-  image: images/GraML_logo.jpg
+  image: images/photo.jpg
   link: https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/
   description: Artificial intelligence and machine learning are being recognized as one of the most important tools for the future. In order to promote this development, TU Graz has established the Graz Center for Machine Learning research network. Interdisciplinary work is currently being carried out here to support the further development of machine learning, whether this support enables us to draw efficient and meaningful conclusions from Big Data, to identify the best combination of materials, or to make the systems themselves just a bit smarter.
   repo: greenelab/lab-website-template
@@ -79,7 +79,7 @@
 
 - title: Bilateral AI
   subtitle: FWF Cluster of Excellence
-  image: images/BilAI_logo.png
+  image: images/photo.jpg
   link: https://www.bilateral-ai.net/home
   description: The project “Bilateral AI” aims at lifting artificial intelligence (AI) to the next level. Current AI systems are in a sense narrow. They center on a specific application or task such as object or speech recognition. Our project will combine two of the most important types of AI which have been developed separately so far: symbolic and sub-symbolic AI. While symbolic AI works with clearly defined logical rules, sub-symbolic AI (such as ChatGPT) is based on training a machine with the help of large datasets to create intelligent behavior. This integration, resulting in a Broad AI, is intended to mirror something that humans do naturally: the simultaneous use of cognition and reasoning skills.
   repo: greenelab/lab-website-template
