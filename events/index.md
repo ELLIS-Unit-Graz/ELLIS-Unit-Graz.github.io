@@ -32,12 +32,12 @@ We are happy to announce that together with the [ELLIS Unit Nijmegen](https://ww
 
 {% capture text %}
 
-. 
+This reading group aims to help onboard young scientists interested in the topic of efficient ML and offers researchers at all levels a platform for an open dialog to foster collaboration, and stay up-to-date with rapid developments in the field. We welcome and discuss fresh research findings published as a pre-print or recently presented at research venues.
 
 {%
   include button.html
-  link="projects"
-  text="."
+  link="research"
+  text="Learn more here"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -47,9 +47,9 @@ We are happy to announce that together with the [ELLIS Unit Nijmegen](https://ww
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Newsitem"
+  image="images/readinggroup.png"
+  link="research"
+  title="Reading Group: Mathematics & Efficiency of Deep Learning"
   flip=true
   style="bare"
   text=text
