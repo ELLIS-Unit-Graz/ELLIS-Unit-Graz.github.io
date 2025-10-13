@@ -11,4 +11,6 @@ links:
 #  orcid: 0000-0001-8713-9213
 ---
 
-Research Interests: 
+Information Theory for ML
+Physics-Informed ML 
+

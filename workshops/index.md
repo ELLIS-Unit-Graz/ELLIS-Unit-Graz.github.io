@@ -51,6 +51,7 @@ You can submit your extended abstract on the following email: [Randi Goertz](mai
 
 The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [EurIPS Copenhagen](https://eurips.cc/) and will take place on **December 2, 2025**.
 
+
 **Time** | **Session**
 8:00 - 9:00 | Registration  
 9:00 - 10:30 | Workshops  

@@ -13,7 +13,7 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 ## Research Topics
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="topics" filter="group == 'featured'" %}
 
 {% include section.html %}
 
@@ -21,4 +21,4 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 Our researchers are actively involved in various consortia, projects, and collaborations. 
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="topics" filter="!group" style="small" %}
