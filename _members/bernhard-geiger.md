@@ -1,7 +1,7 @@
 ---
 name: Bernhard Geiger
 image: images/geiger.jpg
-role: Member
+role: member
 affiliation: Know Center Research GmbH | Institute of Signal Processing and Speech Communication
 aliases:
   - B. Geiger

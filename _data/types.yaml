@@ -3,19 +3,19 @@
 # team member roles
 
 director:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-d
   description: Director
 
 fellow:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-f
   description: Fellow
 
 scholar:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-s
   description: Scholar
 
 member:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-m
   description: Member
 
 postdoc:
@@ -31,7 +31,7 @@ undergrad:
   description: Undergraduate Student
 
 coordinator:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-arrows-to-circle
   description: Coordinator
 
 # general
