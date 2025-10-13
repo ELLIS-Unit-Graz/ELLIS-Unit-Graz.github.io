@@ -69,8 +69,8 @@ The ELLIS Unit Graz was represented at this year's ELLIS coordinator's retreat f
 
 {%
   include button.html
-  link=
-  text=""
+  link="research"
+  text="see"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
