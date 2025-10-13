@@ -2,29 +2,39 @@
 
 # team member roles
 
-principal-investigator:
+director:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Director
 
+fellow:
+  icon: fa-solid fa-dog
+  description: Fellow
+
+scholar:
+  icon: fa-solid fa-dog
+  description: Scholar
+
+member:
+  icon: fa-solid fa-dog
+  description: Member
+  
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: PhD Candidate
 
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+coordinator:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Coordinator
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+
 
 # general
 
