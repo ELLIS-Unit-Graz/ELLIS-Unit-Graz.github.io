@@ -13,7 +13,7 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 ## Research Topics
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" style="small" %}
 
 {% include section.html %}
 
