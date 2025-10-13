@@ -8,7 +8,7 @@ aliases:
   - R Peharz
 links:
   home-page: https://robert-peharz.github.io/
-#  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-8644-9655
 ---
 
 Assistant Professor at the Institute of Machine Learning and Neural Computation at TU Graz

@@ -8,7 +8,7 @@ aliases:
   - T Pock
 links:
   home-page: https://www.tugraz.at/institute/icg/research/team-pock/people/pock/
-  #orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-6120-1058
 ---
 
 Professor at the Institute of Computer Graphics and Vision at TU Graz.

@@ -8,7 +8,7 @@ aliases:
   - E Lex
 links:
   home-page: https://elisabethlex.info/#
-#  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-5293-2967
 ---
 
 Univ.-Prof. Dr. Elisabeth Lex is a tenured full professor at Graz University of Technology (TUG).

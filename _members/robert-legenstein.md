@@ -8,7 +8,7 @@ aliases:
   - R Legenstein
 links:
   home-page: https://www.tugraz.at/institute/iml/people/prof-legenstein/
-  #orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-8724-5507
 ---
 
 Professor and Institute Head of the Institute of Machine Learning and Neural Computation at TU Graz

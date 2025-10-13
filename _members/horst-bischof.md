@@ -8,7 +8,7 @@ aliases:
   - H Bischof
 links:
   home-page: https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof
-  orcid: 
+  orcid: 0000-0002-9096-6671
 ---
 
 Rector of Graz University of Technology

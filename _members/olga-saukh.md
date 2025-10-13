@@ -8,7 +8,7 @@ aliases:
   - O Saukh
 links:
   home-page: https://sites.google.com/view/olgasaukh/home
-#  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-7849-3368
 ---
 
 Associate Professor at the Institute of Technical Informatics at TU Graz

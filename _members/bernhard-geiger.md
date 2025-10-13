@@ -8,7 +8,7 @@ aliases:
   - B Geiger
 links:
   home-page: https://entropictalks.blogspot.com/p/about-me.html
-#  orcid: 0000-0001-8713-9213
+  orcid: 0000-0003-3257-743X
 ---
 
 Information Theory for ML

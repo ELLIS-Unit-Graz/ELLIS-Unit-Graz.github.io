@@ -8,7 +8,7 @@ aliases:
   - O Özdenizci
 links:
   home-page: https://oozdenizci.github.io/
-  #orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-5432-2422
 ---
 
 I am an Assistant Professor in the Institute of Machine Learning and Neural Computation at Graz University of Technology, Austria.

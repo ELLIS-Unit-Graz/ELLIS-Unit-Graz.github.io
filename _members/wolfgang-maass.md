@@ -8,7 +8,7 @@ aliases:
   - W Maass
 links:
   home-page: https://igi-web.tugraz.at/people/maass/
-  #orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-1178-087X
 ---
 
 Professor at the Institute of Machine Learning and Neural Computation at TU Graz
