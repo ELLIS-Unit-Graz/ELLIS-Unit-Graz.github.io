@@ -1,11 +1,11 @@
 ---
-title: News
+title: Events
 nav:
   order: 1
   tooltip: 
 ---
 
-# News from the ELLIS Unit Graz
+# Events at the ELLIS Unit Graz
 
 {% capture text %}
 
@@ -13,8 +13,8 @@ We are happy to announce that together with the ELLIS Unit Nijmegen, we will hos
 
 {%
   include button.html
-  link="research"
-  text="Learn more about the content and register here"
+  link="workshops"
+  text="Learn more about content and registration here"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
