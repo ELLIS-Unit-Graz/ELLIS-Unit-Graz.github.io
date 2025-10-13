@@ -58,29 +58,20 @@
   tags:
     - resource
 
-- title: Mathematics & Efficiency of Deep Learning
-  subtitle: public ELLIS Reading Group
-  image: images/photo.jpg
-  link: https://sites.google.com/view/efficientml
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
 - title: GraML: Graz Research Center for Machine Learning
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/
+  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: FWF Cluster of Excellence Bilateral AI
+- title: Cool Web App
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://www.bilateral-ai.net/home
+  link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
