@@ -1,7 +1,7 @@
 - title: Brain-inspired Machine Learning
   subtitle:
   group: featured
-  image: images/photo.jpg
+  image: images/1.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -11,7 +11,7 @@
 - title: Resource-efficient Deep Learning
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/2.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -21,7 +21,7 @@
 - title: Human-centred Computing
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/3.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -31,7 +31,7 @@
 - title: Trustworthy AI
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/4.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -41,7 +41,7 @@
 - title: Visual Computing
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/5.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -51,7 +51,7 @@
 - title: Probabilistic Machine Learning
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/6.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -60,7 +60,7 @@
 
 - title: Mathematics & Efficiency of Deep Learning
   subtitle: public ELLIS Reading Group
-  image: images/photo.jpg
+  image: images/readinggroup.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -70,7 +70,7 @@
 
 - title: GraML
   subtitle: Graz Research Center for Machine Learning
-  image: images/photo.jpg
+  image: images/GraML_logo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -79,7 +79,7 @@
 
 - title: Bilateral AI
   subtitle: FWF Cluster of Excellence
-  image: images/photo.jpg
+  image: images/BilAI_logo.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
