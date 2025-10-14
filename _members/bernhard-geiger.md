@@ -9,6 +9,7 @@ aliases:
 links:
   home-page: https://entropictalks.blogspot.com/p/about-me.html
   orcid: 0000-0003-3257-743X
+tags: Probabilistic Machine Learning
 ---
 
 Information Theory for ML
