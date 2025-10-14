@@ -17,3 +17,9 @@ Research Interests:
 information processing in biological neural systems, neural networks, machine learning, computational complexity, theory of computation
 
 
+{%
+  include tags.html
+  tags="brain-inspired machine learning, resource-efficient deep learning"
+  repo="your-lab/some-repo"
+  link="research"
+%}

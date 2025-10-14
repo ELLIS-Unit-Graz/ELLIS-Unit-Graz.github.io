@@ -14,3 +14,10 @@ links:
 Assistant Professor at the Institute of Machine Learning and Neural Computation at TU Graz
 
 Research Interests: AI, probabilistic machine learning, inference, tractability, causality, active learning, Bayesian optimization, experimental design, physics-informed learning, neurosymbolic learning 
+
+{%
+  include tags.html
+  tags="Probabilistic Machine Learning"
+  repo="your-lab/some-repo"
+  link="research"
+%}

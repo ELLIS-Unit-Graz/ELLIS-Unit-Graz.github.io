@@ -16,3 +16,10 @@ Associate Professor at the Institute of Technical Informatics at TU Graz
 Group leader Embedded Learning and Sensing Systems
 
 My research focuses on efficient machine learning and the design of practical AI-based systems at the intersection of deep learning and embedded systems. I am interested in both the theoretical foundations of deep learning optimization for resource-constrained devices and their practical applications in real-world systems.
+
+{%
+  include tags.html
+  tags="trustworthy AI, resource-efficient deep learning"
+  repo="your-lab/some-repo"
+  link="research"
+%}

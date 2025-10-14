@@ -14,3 +14,10 @@ links:
 Rector of Graz University of Technology
 
 His research interests include object recognition, visual learning, on-line and life-long learning, motion and tracking, visual surveillance and biometrics and medical computer vision.
+
+{%
+  include tags.html
+  tags="visual computing"
+  repo="your-lab/some-repo"
+  link="research"
+%}

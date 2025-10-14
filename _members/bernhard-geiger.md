@@ -1,7 +1,7 @@
 ---
 name: Bernhard Geiger
 image: images/geiger.jpg
-role: Member
+role: member
 affiliation: Know Center Research GmbH | Institute of Signal Processing and Speech Communication
 aliases:
   - B. Geiger
@@ -9,10 +9,10 @@ aliases:
 links:
   home-page: https://entropictalks.blogspot.com/p/about-me.html
   orcid: 0000-0003-3257-743X
-tags: Probabilistic Machine Learning
 ---
 
 Information Theory for ML
+
 Physics-Informed ML 
 
 {%

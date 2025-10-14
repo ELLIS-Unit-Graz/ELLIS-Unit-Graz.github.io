@@ -14,3 +14,10 @@ links:
 Univ.-Prof. Dr. Elisabeth Lex is a tenured full professor at Graz University of Technology (TUG).
 
 Research Topics: Recommender Systems, User Modeling, Information Retrieval, Machine Learning, Data Science
+
+{%
+  include tags.html
+  tags="human centred computing"
+  repo="your-lab/some-repo"
+  link="research"
+%}

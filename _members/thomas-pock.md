@@ -14,3 +14,11 @@ links:
 Professor at the Institute of Computer Graphics and Vision at TU Graz.
 
 The focus of his research is image processing, computer vision, inverse problems, convex and non-smooth optimization, and machine learning.
+
+
+{%
+  include tags.html
+  tags="visual computing"
+  repo="your-lab/some-repo"
+  link="research"
+%}
