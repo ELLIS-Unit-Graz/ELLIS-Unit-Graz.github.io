@@ -15,3 +15,9 @@ tags: Probabilistic Machine Learning
 Information Theory for ML
 Physics-Informed ML 
 
+{%
+  include tags.html
+  tags="Probabilistic Machine Learning"
+  repo="your-lab/some-repo"
+  link="research"
+%}
