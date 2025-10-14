@@ -8,15 +8,15 @@ director:
 
 fellow:
   icon: fa-solid fa-f
-  description: Fellow
+  description: ELLIS Fellow
 
 scholar:
   icon: fa-solid fa-s
-  description: Scholar
+  description: ELLIS Scholar
 
 member:
   icon: fa-solid fa-m
-  description: Member
+  description: ELLIS Member
 
 postdoc:
   icon: fa-solid fa-glasses
