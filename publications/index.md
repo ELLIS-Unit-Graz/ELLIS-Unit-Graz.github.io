@@ -8,8 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-newspaper" %}Key publications from our Unit
 
 This website is still under construction, a list of key publications from members of the ELLIS Unit Graz will follow. Stay tuned.
-<!---
-{% include section.html %}
+
+<!-- {% include section.html %}
 
 ## Highlighted
 
@@ -23,5 +23,4 @@ This website is still under construction, a list of key publications from member
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
--->
+{% include list.html data="citations" component="citation" style="rich" %} -->
