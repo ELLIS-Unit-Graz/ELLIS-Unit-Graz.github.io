@@ -63,7 +63,7 @@
 - title: GraML
   subtitle: Graz Research Center for Machine Learning
   image: images/GraML_logo.jpg
-  link: https://github.com/
+  link: https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
@@ -71,7 +71,7 @@
 - title: Bilateral AI
   subtitle: FWF Cluster of Excellence
   image: images/BilAI_logo.png
-  link: https://github.com/
+  link: https://www.bilateral-ai.net/home
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
