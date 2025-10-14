@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Key publications from our Unit
 
-See below a list of key publications from members of the ELLIS Unit Graz.
+THis website is still under construction, a list of key publications from members of the ELLIS Unit Graz will follow. For now it is only the template. Stay tuned.
 
 {% include section.html %}
 
