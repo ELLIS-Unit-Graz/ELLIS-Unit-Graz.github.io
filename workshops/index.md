@@ -39,7 +39,7 @@ This workshop aims to bring together researchers and practitioners from diverse 
 **Important Dates**
 
 
--    Submission Deadline: **October 20, 2025**, AoE
+-    Submission Deadline: **October 23, 2025**, AoE (extended)
 
 -    Accept/Reject Notifications: October 31, 2025, AoE
 
