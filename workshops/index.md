@@ -31,7 +31,7 @@ This workshop aims to bring together researchers and practitioners from diverse 
 -    Format: [NeurIPS style](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) (use the linked official NeurIPS LaTeX template)
 
 -   Length: Up to 2 pages (excluding references, which may extend beyond the limit). Since the entire submission is an abstract, there is no need to use the abstract environment.
--   Review: Submissions will be lightly reviewed for relevance and quality. Accepted abstracts will be selected for presentation as posters or short talks. You can specify your preferred presentation format along with the submission and we will try to accommodate your preference.
+-   Review: Submissions will be lightly reviewed for relevance and quality. Accepted abstracts will be selected for presentation as posters.
 -   Archival Policy: The workshop is non-archival. Authors are encouraged to submit work that is preliminary, in progress, or recently published elsewhere.
 
 
