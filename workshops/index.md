@@ -70,7 +70,7 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 12:30 - 13:30 | Lunch  
 13:30 - 15:00 | **Workshop talks** 
   |  Yukun Yang (TU Graz): A brain-inspired method for context-aware and explainable planning that is suitable for implementation in energy-efficient AI
-  | Panel Discussion
+  | Panel Discussion of the Workshop on the future of emergy-efficient AI in general, and in ELLIS
 15:30 - 16:00 | ELLIS Unconference Welcoming Remarks  
 16:00 - 18:00 | ELLIS Unconference Poster Session  
 18:00 - 20:00 | ELLIS Unconference Reception
