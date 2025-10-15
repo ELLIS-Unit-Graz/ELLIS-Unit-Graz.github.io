@@ -79,7 +79,6 @@ The ELLIS Unit Graz was represented at this year's ELLIS coordinator's retreat f
 {%
   include feature.html
   image="images/ELLIS_coordinators2025.jpg"
-  link="team"
   title="ELLIS Coordinators Retreat 2025"
   text=text
 %}

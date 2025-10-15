@@ -25,9 +25,9 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/TUGraz_logo.png" %}
+{% include figure.html image="images/GraML_logo.jpg" %}
+{% include figure.html image="images/BilAI_logo.png" %}
 
 {% endcapture %}
 
