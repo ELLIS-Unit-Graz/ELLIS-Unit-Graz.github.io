@@ -12,8 +12,6 @@ The Ellis Unit Graz has strong links with other scientific disciplines through t
   include figure.html
   image="images/ELLIS_Unit_Graz.png"
   caption="The Researchers at our Unit"
-  link="team"
-  width="400px"
 %}
 
 {% include section.html %}
