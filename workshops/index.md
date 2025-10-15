@@ -56,16 +56,19 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 
 **Time** | **Session**
 8:00 - 9:00 | Registration  
-
 9:00 - 10:30 | **Workshop talks**
   |  Angeliki Pantazi (IBM Zurich): Designing Energy-Efficient AI: Insights from Neural Systems  
   |  Emre Neftci (Forschungszentrum Jülich): Neuroscience-guided Learning Rules Discovery for Efficient AI
   |  Wilfred van der Wiel (University of Twente): Reconfigurable nonlinear processing in silicon
 10:30 - 11:00 | Coffee break  
 11:00 - 12:30 | **Workshop talks** 
+  |  Shih-Chii Liu (ETH and University of Zurich): Brain-inspired dynamic sparsity for neuromorphic AI  
+  |  Iason Chalas (ETH and IBM Zurich): Analog In-Memory Computing for Efficient Large Language Model Deployment
+  |  Nasir Ahmad (Radboud University Nijmegen): Two steps forward and no steps back: Training neural networks in noisy hardware without backward passes
 12:30 - 13:30 | Lunch  
-13:30 - 15:00 | Workshops  
-
+13:30 - 15:00 | **Workshop talks** 
+  |  Yukun Yang (TU Graz): A brain-inspired method for context-aware and explainable planning that is suitable for implementation in energy-efficient AI
+  | Panel Discussion
 15:30 - 16:00 | ELLIS Unconference Welcoming Remarks  
 16:00 - 18:00 | ELLIS Unconference Poster Session  
 18:00 - 20:00 | ELLIS Unconference Reception
