@@ -57,9 +57,12 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 **Time** | **Session**
 8:00 - 9:00 | Registration  
 
-9:00 - 10:30 | Workshop:   
+9:00 - 10:30 | **Workshop talks**
+  |  Angeliki Pantazi (IBM Zurich): Designing Energy-Efficient AI: Insights from Neural Systems  
+  |  Emre Neftci (Forschungszentrum Jülich): Neuroscience-guided Learning Rules Discovery for Efficient AI
+  |  Wilfred van der Wiel (University of Twente): Reconfigurable nonlinear processing in silicon
 10:30 - 11:00 | Coffee break  
-11:00 - 12:30 | Workshops  
+11:00 - 12:30 | **Workshop talks** 
 12:30 - 13:30 | Lunch  
 13:30 - 15:00 | Workshops  
 
