@@ -9,7 +9,7 @@ proofer: false
 # site social media and other links
 links:
   email: randi.goertz@ellis.eu
-  github: ELLIS-Unit-Graz
+  linkedin: https://www.linkedin.com/company/ellis-unit-graz/
 
 ### jekyll settings
 
