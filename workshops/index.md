@@ -56,6 +56,8 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 
 
 # Accepted Posters 
+
+**Title**|**Authors**
 :--------|:-----------
 Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices |	Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke
 Reservoir Conformal Prediction for Time Series |	Roberto Neglia, Andrea Cini, Michael M. Bronstein, Filippo Maria Bianchi
