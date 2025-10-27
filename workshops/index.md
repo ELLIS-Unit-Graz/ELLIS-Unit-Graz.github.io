@@ -54,6 +54,7 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 18:00 - 20:00 | ELLIS Unconference Reception
 
 # Accepted Posters 
+
 **Authors**|**Title**
 :--------|:-----------
 Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke | Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices
