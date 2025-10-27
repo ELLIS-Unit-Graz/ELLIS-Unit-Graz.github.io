@@ -32,35 +32,28 @@ In case of questions contact: [Randi Goertz](mailto:randi.goertz@tugraz.at)
 
 The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [EurIPS Copenhagen](https://eurips.cc/) and will take place on **December 2, 2025**.
 
-
 **Time** | **Session**
 :--------|:-----------
 8:00 - 9:00 | Registration  
-9:00 - 10:30 | **Workshop talks** 1-3
+9:00 - 10:30 | **Workshop talks**
+  |  Angeliki Pantazi (IBM Zurich): Designing Energy-Efficient AI: Insights from Neural Systems  
+  |  Emre Neftci (Forschungszentrum Jülich): Neuroscience-guided Learning Rules Discovery for Efficient AI
+  |  Wilfred van der Wiel (University of Twente): Reconfigurable nonlinear processing in silicon
 10:30 - 11:00 | Coffee break & **Posters**
-11:00 - 12:30 | **Workshop talks** 4-6
+11:00 - 12:30 | **Workshop talks** 
+  |  Shih-Chii Liu (ETH and University of Zurich): Brain-inspired dynamic sparsity for neuromorphic AI  
+  |  Iason Chalas (ETH and IBM Zurich): Analog In-Memory Computing for Efficient Large Language Model Deployment
+  |  Nasir Ahmad (Radboud University Nijmegen): Two steps forward and no steps back: Training neural networks in noisy hardware without backward passes
 12:30 - 13:30 | Lunch & **Posters**
-13:30 - 15:00 | **Workshop talk** 7 
+13:30 - 15:00 | **Workshop talks** 
+  |  Yukun Yang (TU Graz): A brain-inspired method for context-aware and explainable planning that is suitable for implementation in energy-efficient AI
   | **Panel Discussion of the Workshop on the future of energy-efficient AI in general, and in ELLIS**
 15:00 - 15:30 | Coffee break & **Posters**
 15:30 - 16:00 | ELLIS Unconference Welcoming Remarks  
 16:00 - 18:00 | ELLIS Unconference Poster Session  
 18:00 - 20:00 | ELLIS Unconference Reception
 
-# Speakers
-
-**Number**|**Speaker**|**Title**
-:--------|:-----------|:---------
-1 | Angeliki Pantazi (IBM Zurich) | Designing Energy-Efficient AI: Insights from Neural Systems 
-2 | Emre Neftci (Forschungszentrum Jülich) | Neuroscience-guided Learning Rules Discovery for Efficient AI
-3 | Wilfred van der Wiel (University of Twente) | Reconfigurable nonlinear processing in silicon
-4 | Shih-Chii Liu (ETH and University of Zurich) | Brain-inspired dynamic sparsity for neuromorphic AI
-5 | Iason Chalas (ETH and IBM Zurich) | Analog In-Memory Computing for Efficient Large Language Model Deployment
-6 | Nasir Ahmad (Radboud University Nijmegen) | Two steps forward and no steps back: Training neural networks in noisy hardware without backward passes
-7 | Yukun Yang (TU Graz) | A brain-inspired method for context-aware and explainable planning that is suitable for implementation in energy-efficient AI
-
 # Accepted Posters 
-
 **Authors**|**Title**
 :--------|:-----------
 Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke | Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices
