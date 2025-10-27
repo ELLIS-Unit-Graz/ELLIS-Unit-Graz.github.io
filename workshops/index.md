@@ -36,34 +36,38 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 **Time** | **Session**
 :--------|:-----------
 8:00 - 9:00 | Registration  
-9:00 - 10:30 | **Workshop talks**
-  |  Angeliki Pantazi (IBM Zurich): Designing Energy-Efficient AI: Insights from Neural Systems  
-  |  Emre Neftci (Forschungszentrum Jülich): Neuroscience-guided Learning Rules Discovery for Efficient AI
-  |  Wilfred van der Wiel (University of Twente): Reconfigurable nonlinear processing in silicon
+9:00 - 10:30 | **Workshop talks** 1-3
 10:30 - 11:00 | Coffee break & **Posters**
-11:00 - 12:30 | **Workshop talks** 
-  |  Shih-Chii Liu (ETH and University of Zurich): Brain-inspired dynamic sparsity for neuromorphic AI  
-  |  Iason Chalas (ETH and IBM Zurich): Analog In-Memory Computing for Efficient Large Language Model Deployment
-  |  Nasir Ahmad (Radboud University Nijmegen): Two steps forward and no steps back: Training neural networks in noisy hardware without backward passes
+11:00 - 12:30 | **Workshop talks** 4-6
 12:30 - 13:30 | Lunch & **Posters**
-13:30 - 15:00 | **Workshop talks** 
-  |  Yukun Yang (TU Graz): A brain-inspired method for context-aware and explainable planning that is suitable for implementation in energy-efficient AI
+13:30 - 15:00 | **Workshop talk** 7 
   | **Panel Discussion of the Workshop on the future of energy-efficient AI in general, and in ELLIS**
 15:00 - 15:30 | Coffee break & **Posters**
 15:30 - 16:00 | ELLIS Unconference Welcoming Remarks  
 16:00 - 18:00 | ELLIS Unconference Poster Session  
 18:00 - 20:00 | ELLIS Unconference Reception
 
+# Speakers
+
+**Number**|**Speaker**|**Title**
+:--------|:-----------|:---------
+1 | Angeliki Pantazi (IBM Zurich) | Designing Energy-Efficient AI: Insights from Neural Systems 
+2 | Emre Neftci (Forschungszentrum Jülich) | Neuroscience-guided Learning Rules Discovery for Efficient AI
+3 | Wilfred van der Wiel (University of Twente) | Reconfigurable nonlinear processing in silicon
+4 | Shih-Chii Liu (ETH and University of Zurich) | Brain-inspired dynamic sparsity for neuromorphic AI
+5 | Iason Chalas (ETH and IBM Zurich) | Analog In-Memory Computing for Efficient Large Language Model Deployment
+6 | Nasir Ahmad (Radboud University Nijmegen) | Two steps forward and no steps back: Training neural networks in noisy hardware without backward passes
+7 | Yukun Yang (TU Graz) | A brain-inspired method for context-aware and explainable planning that is suitable for implementation in energy-efficient AI
 
 # Accepted Posters 
 
-**Title**|**Authors**
+**Authors**|**Title**
 :--------|:-----------
-Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices |	Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke
-Reservoir Conformal Prediction for Time Series |	Roberto Neglia, Andrea Cini, Michael M. Bronstein, Filippo Maria Bianchi
-Model Folding A Unified Approach to Post-training Compression and Efficient Pre-training |	Dong Wang, Haris Šiki´c, Lothar Thiele, Olga Saukh
-Boolean Logic Circuits for Continuous Control	| Fabian Kresse, Thomas A. Henzinger, Christoph H. Lampert
-Learn to Think in Boxes: Trainable Bitwise Quantization for Input Feature Compression	| Karsten Schrödter, Jan Stenkamp, Nina Herrmann, Fabian Gieseke
-Benchmarking Green Supercomputing for Low-Emission AI: Reinforcement Learning as a Use Case	| Dominik Kuczkowski, Sara Pyykölä, Klavdiya Bochenina, Keijo Heljanko, Laura Ruotsalainen
-Quantized Visual Geometry Grounded Transformer | Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu
-Towards On-Device Stress Detection on Tiny Edge Platforms |	Urmi Jana, Shalini Mukhopadhyay
+Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke | Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices
+Roberto Neglia, Andrea Cini, Michael M. Bronstein, Filippo Maria Bianchi | Reservoir Conformal Prediction for Time Series
+Dong Wang, Haris Šiki´c, Lothar Thiele, Olga Saukh | Model Folding A Unified Approach to Post-training Compression and Efficient Pre-training
+Fabian Kresse, Thomas A. Henzinger, Christoph H. Lampert | Boolean Logic Circuits for Continuous Control
+Karsten Schrödter, Jan Stenkamp, Nina Herrmann, Fabian Gieseke | Learn to Think in Boxes: Trainable Bitwise Quantization for Input Feature Compression
+Dominik Kuczkowski, Sara Pyykölä, Klavdiya Bochenina, Keijo Heljanko, Laura Ruotsalainen | Benchmarking Green Supercomputing for Low-Emission AI: Reinforcement Learning as a Use Case
+Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu | Quantized Visual Geometry Grounded Transformer
+Urmi Jana, Shalini Mukhopadhyay | Towards On-Device Stress Detection on Tiny Edge Platforms
