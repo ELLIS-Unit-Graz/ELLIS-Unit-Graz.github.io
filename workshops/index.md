@@ -57,11 +57,12 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 
 **Authors**|**Title**
 :--------|:-----------
-Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke | Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices
-Roberto Neglia, Andrea Cini, Michael M. Bronstein, Filippo Maria Bianchi | Reservoir Conformal Prediction for Time Series
-Dong Wang, Haris Šiki´c, Lothar Thiele, Olga Saukh | Model Folding A Unified Approach to Post-training Compression and Efficient Pre-training
-Fabian Kresse, Thomas A. Henzinger, Christoph H. Lampert | Boolean Logic Circuits for Continuous Control
-Karsten Schrödter, Jan Stenkamp, Nina Herrmann, Fabian Gieseke | Learn to Think in Boxes: Trainable Bitwise Quantization for Input Feature Compression
+Alireza Olama, Andreal Lundell, Jerker Björkqvist, Johan Lilius | PRUNEX: A Hierarchical Communication-Efficient System for Distributed CNN Pruning
 Dominik Kuczkowski, Sara Pyykölä, Klavdiya Bochenina, Keijo Heljanko, Laura Ruotsalainen | Benchmarking Green Supercomputing for Low-Emission AI: Reinforcement Learning as a Use Case
-Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu | Quantized Visual Geometry Grounded Transformer
+Dong Wang, Haris Šikić, Lothar Thiele, Olga Saukh | Model Folding A Unified Approach to Post-training Compression and Efficient Pre-training
+Fabian Kresse, Thomas A. Henzinger, Christoph H. Lampert | Boolean Logic Circuits for Continuous Control
+Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke | Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices
+Karsten Schrödter, Jan Stenkamp, Nina Herrmann, Fabian Gieseke | Learn to Think in Boxes: Trainable Bitwise Quantization for Input Feature Compression
+Roberto Neglia, Andrea Cini, Michael M. Bronstein, Filippo Maria Bianchi | Reservoir Conformal Prediction for Time Series
 Urmi Jana, Shalini Mukhopadhyay | Towards On-Device Stress Detection on Tiny Edge Platforms
+Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu | Quantized Visual Geometry Grounded Transformer
