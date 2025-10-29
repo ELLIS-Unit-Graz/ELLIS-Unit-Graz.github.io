@@ -64,5 +64,5 @@ Fabian Kresse, Thomas A. Henzinger, Christoph H. Lampert | Boolean Logic Circuit
 Jan Stenkamp, Nina Herrmann, Benjamin Karic, Stefan Oehmcke, Fabian Gieseke | Boosted Trees on a Diet: Compact Models for Resource-Constrained Devices
 Karsten Schrödter, Jan Stenkamp, Nina Herrmann, Fabian Gieseke | Learn to Think in Boxes: Trainable Bitwise Quantization for Input Feature Compression
 Roberto Neglia, Andrea Cini, Michael M. Bronstein, Filippo Maria Bianchi | Reservoir Conformal Prediction for Time Series
-Urmi Jana, Shalini Mukhopadhyay | Towards On-Device Stress Detection on Tiny Edge Platforms
+Shalini Mukhopadhyay, Urmi Jana, Swarnava Dey | Towards On-Device Stress Detection on Tiny Edge Platforms
 Weilun Feng, Haotong Qin, Mingqiang Wu, Chuanguang Yang, Yuqi Li, Xiangqi Li, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu | Quantized Visual Geometry Grounded Transformer
