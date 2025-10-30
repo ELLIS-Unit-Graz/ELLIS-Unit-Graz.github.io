@@ -56,22 +56,22 @@
   subtitle: public ELLIS Reading Group
   image: images/readinggroup.png
   link: https://sites.google.com/view/efficientml
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: This reading group aims to help onboard young scientists interested in the topic of efficient ML and offers researchers at all levels a platform for an open dialog to foster collaboration, and stay up-to-date with rapid developments in the field. We welcome and discuss fresh research findings published as a pre-print or recently presented at research venues.
+  repo: 
   tags:
 
 - title: GraML
   subtitle: Graz Research Center for Machine Learning
   image: images/GraML_logo.jpg
   link: https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: In order to promote the recognition of AI and ML as the most important tools for the future, TU Graz has established the Graz Center for Machine Learning research network. Interdisciplinary work is currently being carried out here to support the further development of machine learning, whether this support enables us to draw efficient and meaningful conclusions from Big Data, to identify the best combination of materials, or to make the systems themselves just a bit smarter.
+  repo: 
   tags:
 
 - title: Bilateral AI
   subtitle: FWF Cluster of Excellence
   image: images/BilAI_logo.png
   link: https://www.bilateral-ai.net/home
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: The project “Bilateral AI” aims at lifting artificial intelligence (AI) to the next level. Current AI systems are in a sense narrow. They center on a specific application or task such as object or speech recognition. This Austrian-wide Cluster of Excellence will combine two of the most important types of AI which have been developed separately so far: symbolic and sub-symbolic AI. While symbolic AI works with clearly defined logical rules, sub-symbolic AI (such as ChatGPT) is based on training a machine with the help of large datasets to create intelligent behavior. This integration, resulting in a Broad AI, is intended to mirror something that humans do naturally: the simultaneous use of cognition and reasoning skills.
+  repo: 
   tags:
