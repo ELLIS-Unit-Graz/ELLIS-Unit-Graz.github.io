@@ -9,6 +9,10 @@ nav:
 
 {% include section.html %}
 
+{% include list.html component="card" data="membersEUG" filter="group == 'director'" style="small" %}
+
+{% include section.html %}
+
 {% include list.html data="members" component="portrait" filter="role == 'director'" %}
 
 {% include list.html data="members" component="portrait" filter="role == 'Fellow'" %}
@@ -23,12 +27,4 @@ nav:
 
 {% include section.html %}
 
-
-## Projects & Partners
-
-Our researchers are actively involved in various consortia, projects, and collaborations. 
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
-
-{% include grid.html style="square" content=content %}
 
