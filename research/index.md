@@ -16,3 +16,12 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 # {% include icon.html icon="fa-solid fa-newspaper" %}Key publications from our Unit
 
 This website is still under construction, a list of key publications from members of the ELLIS Unit Graz will follow. Stay tuned.
+
+
+# Projects & Partners
+
+Our researchers are actively involved in various consortia, projects, and collaborations. 
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %} 
+
+{% include grid.html style="square" content=content %}
