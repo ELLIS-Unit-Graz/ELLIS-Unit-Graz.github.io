@@ -1,7 +1,7 @@
 ---
 title: About ELLIS
 nav:
-  order: 6
+  order: 5
   tooltip: What is ELLIS
 ---
 

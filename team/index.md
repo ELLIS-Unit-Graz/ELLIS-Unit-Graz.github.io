@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 5
+  order: 4
   tooltip: Our Members
 ---
 
@@ -32,3 +32,5 @@ nav:
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+
