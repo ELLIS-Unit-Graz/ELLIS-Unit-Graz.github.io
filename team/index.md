@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+{% include list.html component="card" data="members" filter="group == 'director'" style="small" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'director'" %}
 
 {% include list.html data="members" component="portrait" filter="role == 'Fellow'" %}
@@ -23,14 +25,11 @@ nav:
 
 {% include section.html %}
 
-{% capture content %}
+## Projects & Partners
 
-{% include figure.html image="images/TUGraz_logo.png" %}
-{% include figure.html image="images/GraML_logo.jpg" %}
-{% include figure.html image="images/BilAI_logo.png" %}
+Our researchers are actively involved in various consortia, projects, and collaborations. 
 
-{% endcapture %}
+{% include list.html component="card" data="projects" filter="!group" style="small" %}{% 
 
 {% include grid.html style="square" content=content %}
-
 
