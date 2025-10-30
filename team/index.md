@@ -7,6 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Our Members
 
-{% include list.html component="card" data="membersEUG" filter="group == 'director'" style="small" %}
+{% include list.html component="card" data="membersEUG" filter="group == 'featured'" style="small" %}
 
 {% include section.html %}
