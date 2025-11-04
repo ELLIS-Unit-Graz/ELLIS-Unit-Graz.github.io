@@ -11,6 +11,7 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" style="small" %}
 
+
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Key publications from our Unit
