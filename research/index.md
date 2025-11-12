@@ -23,4 +23,4 @@ This website is still under construction, a list of key publications from member
 
 Our researchers are actively involved in various consortia, projects, and collaborations. 
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %} 
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
