@@ -72,6 +72,6 @@
   subtitle: FWF Cluster of Excellence
   image: images/BilAI_logo.png
   link: https://www.bilateral-ai.net/home
-  description: The project “Bilateral AI” aims at lifting artificial intelligence (AI) to the next level. This Austrian-wide Cluster of Excellence will combine two of the most important types of AI which have been developed separately so far, symbolic and sub-symbolic AI. While symbolic AI works with clearly defined logical rules, sub-symbolic AI (such as ChatGPT) is based on training a machine with the help of large datasets to create intelligent behavior. This integration, resulting in a Broad AI, is intended to mirror something that humans do naturally: the simultaneous use of cognition and reasoning skills.
+  description: The Austrian-wide Cluster of Excellence “Bilateral AI” aims at lifting artificial intelligence (AI) to the next level. It will combine two of the most important types of AI which have been developed separately so far, symbolic and sub-symbolic AI. This integration, resulting in a Broad AI, is intended to mirror something that humans do naturally, the simultaneous use of cognition and reasoning skills.
   repo: 
   tags:
