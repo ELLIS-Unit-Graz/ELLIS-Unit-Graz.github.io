@@ -83,5 +83,8 @@
   image: images/maass.jpg
   link: https://igi-web.tugraz.at/people/maass/
   description: 
+    bullet Learning Processes in the Brain through Theory and Large-scale Models\n
+    bullet Computation and Learning in Biological Neuronal Systems
+
   repo: 
   tags: brain-inspired-machine-learning, resource-efficient-deep-learning
