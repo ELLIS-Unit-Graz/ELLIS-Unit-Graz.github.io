@@ -1,6 +1,6 @@
 ---
 name: Brain-inspired Machine Learning
-image: images/1.jpg
+image: images/1.png
 role: Member
 description: Member
 affiliation: 
