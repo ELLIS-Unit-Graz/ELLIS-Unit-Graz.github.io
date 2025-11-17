@@ -136,7 +136,7 @@
 - title: Olga Saukh
   subtitle: ELLIS Member 
   group: members
-  image: images/saukh.jpeg
+  image: images/saukh.jpg
   link: https://sites.google.com/view/olgasaukh/home
   description: |
     - Embedded Machine Learning & Sensing Systems
@@ -147,7 +147,7 @@
 - title: Thomas Pock
   subtitle: ELLIS Member 
   group: members
-  image: images/pock.jpeg
+  image: images/pock.jpg
   link: https://ivc.tugraz.at/people/thomas-pock/
   description: |
     - Non-smooth & Convex Optimization
@@ -158,7 +158,7 @@
 - title: Horst Bischof
   subtitle: ELLIS Member | Rector TU Graz
   group: members
-  image: images/bischof.png
+  image: images/bischof.jpg
   link: https://www.tugraz.at/tu-graz/organisationsstruktur/rektorat-der-tu-graz
   description: |
     - Computer Vision
