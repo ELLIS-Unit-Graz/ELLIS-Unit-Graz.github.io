@@ -2,6 +2,7 @@
 name: Ozan Özdenizci
 image: images/oezdenizci.JPG
 role: Member
+description: Member
 affiliation: Institute of Machine Learning and Neural Computation
 aliases:
   - O. Özdenizci

@@ -2,6 +2,7 @@
 name: Robert Legenstein
 image: images/legenstein.jpg
 role: Fellow
+description: Fellow
 affiliation: Institute of Machine Learning and Neural Computation
 aliases:
   - R. Legenstein

@@ -2,6 +2,7 @@
 name: Elisabeth Lex
 image: images/lex.jpg
 role: Scholar
+description: Scholar
 affiliation: Institute of Human-Centred Computing
 aliases:
   - E. Lex

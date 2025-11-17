@@ -2,6 +2,7 @@
 name: Randi Goertz
 image: images/goertz.png
 role: coordinator
+description: Coordinator
 affiliation: Institute for Machine Learning and Neural Computation
 aliases:
   - R. Goertz

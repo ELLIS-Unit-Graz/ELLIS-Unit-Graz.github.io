@@ -2,6 +2,7 @@
 name: Franz Pernkopf
 image: images/pernkopf.jpg
 role: Member
+description: Member
 affiliation: Institute of Signal Processing and Speech Communication
 aliases:
   - F. Pernkopf

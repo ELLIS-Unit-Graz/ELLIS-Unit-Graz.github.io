@@ -2,6 +2,7 @@
 name: Robert Peharz
 image: images/peharz.jpg
 role: Scholar
+description: Scholar
 affiliation: Institute of Machine Learning and Neural Computation
 aliases:
   - R. Peharz
