@@ -87,3 +87,25 @@
     - Computation and Learning in Biological Neuronal Systems
   repo: 
   tags: brain-inspired-machine-learning, resource-efficient-deep-learning
+
+- title: Robert Legenstein
+  subtitle: ELLIS Fellow 
+  group: members
+  image: images/legenstein.jpg
+  link: https://www.tugraz.at/institute/iml/people/prof-legenstein
+  description: |
+    - Brain-inspired Computing & Energy-efficient ML
+    - Computation and Learning in Biological Neuronal Systems
+  repo: 
+  tags: brain-inspired-machine-learning, resource-efficient-deep-learning
+
+- title: Elisabeth Lex
+  subtitle: ELLIS Scholar 
+  group: members
+  image: images/lex.jpg
+  link: https://elisabethlex.info/
+  description: |
+    - Recommender Systems & Behavioural Analytics
+    - Domain-specialized ML & Trust
+  repo: 
+  tags: Human-Centred Computing
