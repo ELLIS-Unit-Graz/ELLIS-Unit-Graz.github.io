@@ -16,7 +16,7 @@ nav:
 
 {% include section.html %}
 
-# Projects & Partners
+# {% include icon.html icon="fa-solid fa-handshake"%} Projects & Partners
 
 Our researchers are actively involved in various consortia, projects, and collaborations. 
 
