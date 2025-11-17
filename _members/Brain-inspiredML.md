@@ -1,20 +1,16 @@
 ---
-name: Bernhard Geiger
-image: images/geiger.jpg
+name: Brain-inspired Machine Learning
+image: images/1.jpg
 role: Member
 description: Member
-affiliation: Know Center Research GmbH | Institute of Signal Processing and Speech Communication
+affiliation: 
 aliases:
-  - B. Geiger
-  - B Geiger
 links:
-  home-page: https://entropictalks.blogspot.com/p/about-me.html
-  orcid: 0000-0003-3257-743X
+  home-page: 
+  orcid: 
 ---
 
-Information Theory for ML
-
-Physics-Informed ML 
+text on this 
 
 {%
   include tags.html
