@@ -144,13 +144,46 @@
   repo: 
   tags: resource-efficient-deep-learning, Trustworthy AI
 
-- title: Olga Saukh
+- title: Thomas Pock
   subtitle: ELLIS Member 
   group: members
-  image: images/saukh.jpg
-  link: https://sites.google.com/view/olgasaukh/home
+  image: images/pock.jpg
+  link: https://ivc.tugraz.at/people/thomas-pock/
   description: |
-    - Embedded Machine Learning & Sensing Systems
-    - Trustworthy & Adaptive AI
+    - Non-smooth & Convex Optimization
+    - Computer Vision
   repo: 
-  tags: resource-efficient-deep-learning, Trustworthy AI
+  tags: Visual Computing
+
+- title: Horst Bishof
+  subtitle: ELLIS Member | Rector TU Graz
+  group: members
+  image: images/bischof.jpg
+  link: https://www.tugraz.at/tu-graz/organisationsstruktur/rektorat-der-tu-graz
+  description: |
+    - Computer Vision
+    - Online & Lifelong Learning
+  repo: 
+  tags: Visual Computing
+
+- title: Franz Pernkopf
+  subtitle: ELLIS Member 
+  group: members
+  image: images/pernkopf.jpg
+  link: https://www.tugraz.at/tu-graz/organisationsstruktur/rektorat-der-tu-graz
+  description: |
+    - Resource-efficient Models for Intelligent Systems
+    - Dependable AI for Industry, Medicine and Speech
+  repo: 
+  tags: resource-efficient-deep-learning, Probabilistic Machine Learning
+
+- title: Bernhard Geiger
+  subtitle: ELLIS Member 
+  group: members
+  image: images/geiger.jpg
+  link: https://entropictalks.blogspot.com/
+  description: |
+    - Information Theory for ML
+    - Physics-Informed ML
+  repo: 
+  tags: Probabilistic Machine Learning
