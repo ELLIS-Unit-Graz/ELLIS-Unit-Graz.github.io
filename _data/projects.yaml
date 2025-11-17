@@ -89,7 +89,7 @@
   tags: brain-inspired-machine-learning, resource-efficient-deep-learning
 
 - title: Robert Legenstein
-  subtitle: ELLIS Fellow 
+  subtitle: ELLIS Fellow | BilAI BoD Member
   group: members
   image: images/legenstein.jpg
   link: https://www.tugraz.at/institute/iml/people/prof-legenstein
@@ -109,3 +109,48 @@
     - Domain-specialized ML & Trust
   repo: 
   tags: Human-Centred Computing
+
+- title: Robert Peharz
+  subtitle: ELLIS Scholar | GraML Spokesperson
+  group: members
+  image: images/peharz.jpg
+  link: https://robert-peharz.github.io/
+  description: |
+    - Probabilistic Models
+    - Neurosymbolic AI
+    - AI for Science
+  repo: 
+  tags: Probabilistic Machine Learning
+
+- title: Ozan Özdenizci
+  subtitle: ELLIS Member 
+  group: members
+  image: images/oezdenizci.jpg
+  link: https://oozdenizci.github.io/
+  description: |
+    - Robustness, Security & Pricacy in ML
+    - Efficient Learning Algorithms & Architectures
+  repo: 
+  tags: resource-efficient-deep-learning, Trustworthy AI
+
+- title: Olga Saukh
+  subtitle: ELLIS Member 
+  group: members
+  image: images/saukh.jpg
+  link: https://sites.google.com/view/olgasaukh/home
+  description: |
+    - Embedded Machine Learning & Sensing Systems
+    - Trustworthy & Adaptive AI
+  repo: 
+  tags: resource-efficient-deep-learning, Trustworthy AI
+
+- title: Olga Saukh
+  subtitle: ELLIS Member 
+  group: members
+  image: images/saukh.jpg
+  link: https://sites.google.com/view/olgasaukh/home
+  description: |
+    - Embedded Machine Learning & Sensing Systems
+    - Trustworthy & Adaptive AI
+  repo: 
+  tags: resource-efficient-deep-learning, Trustworthy AI
