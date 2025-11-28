@@ -34,7 +34,7 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 
 **Time** | **Session**
 :--------|:-----------
-8:00 - 9:00 | Registration  
+7:00 - 10:00 | Registration  
 9:00 - 10:30 | **Workshop talks**
   |  Angeliki Pantazi (IBM Zurich): Designing Energy-Efficient AI: Insights from Neural Systems  
   |  Emre Neftci (Forschungszentrum Jülich): Neuroscience-guided Learning Rules Discovery for Efficient AI
