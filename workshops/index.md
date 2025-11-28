@@ -30,7 +30,7 @@ In case of questions contact: [Randi Goertz](mailto:randi.goertz@tugraz.at)
 
 # Workshop Agenda
 
-The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [EurIPS Copenhagen](https://eurips.cc/) and will take place on **December 2, 2025**.
+The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [EurIPS Copenhagen](https://eurips.cc/) and will take place on **December 2, 2025** at the [Bella Center Copenhagen](https://eurips.cc/travel-information/), Center Blvd. 5, 2300 København S, Denmark. Our workshop will take place in **room 20**.
 
 **Time** | **Session**
 :--------|:-----------
