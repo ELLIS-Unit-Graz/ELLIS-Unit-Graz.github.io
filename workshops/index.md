@@ -35,19 +35,19 @@ The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [
 **Time** | **Session**
 :--------|:-----------
 7:00 - 10:00 | Registration  
-9:00 - 10:30 | **Workshop talks**
+9:00 - 10:30 | **Workshop talks** (Chair: Marcel van Gerven)
   |  Angeliki Pantazi (IBM Zurich): Designing Energy-Efficient AI: Insights from Neural Systems  
   |  Emre Neftci (Forschungszentrum Jülich): Neuroscience-guided Learning Rules Discovery for Efficient AI
   |  Wilfred van der Wiel (University of Twente): Reconfigurable nonlinear processing in silicon
 10:30 - 11:00 | Coffee break & **Posters**
-11:00 - 12:30 | **Workshop talks** 
+11:00 - 12:30 | **Workshop talks** (Chair: Marcel van Gerven)
   |  Shih-Chii Liu (ETH and University of Zurich): Brain-inspired dynamic sparsity for neuromorphic AI  
   |  Iason Chalas (ETH and IBM Zurich): Analog In-Memory Computing for Efficient Large Language Model Deployment
   |  Nasir Ahmad (Radboud University Nijmegen): Two steps forward and no steps back: Training neural networks in noisy hardware without backward passes
 12:30 - 13:30 | Lunch & **Posters**
-13:30 - 15:00 | **Workshop talks** 
+13:30 - 15:00 | **Workshop talks** (Chair: Wolfgang Maass)
   |  Yukun Yang (TU Graz): A brain-inspired method for context-aware and explainable planning that is suitable for implementation in energy-efficient AI
-  | **Panel Discussion of the Workshop on the future of energy-efficient AI in general, and in ELLIS**
+  | **Panel Discussion of the Workshop on the future of energy-efficient AI in general, and in ELLIS** (Chairs: Marcel van Gerven and Wolfgang Maass)
   |  - Questions from the audience to the speakers regarding their talks.
   |  - Pros and cons of various research directions for energy-efficient AI.
   |  - Should we try to establish an ELLIS research programme on energy-efficient AI? 
