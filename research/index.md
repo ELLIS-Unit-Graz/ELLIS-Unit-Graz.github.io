@@ -11,7 +11,7 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 {%
   include button.html
-  link="research/topics/braininspiredML"
+  link="research"
   text="Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -23,7 +23,7 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 {%
   include feature.html
   image="images/1.png"
-  link="research/topics/braininspiredML"
+  link="research"
   title="Brain-inspired Machine Learning"
   text=text
 %}
