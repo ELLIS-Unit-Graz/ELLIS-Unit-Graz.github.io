@@ -7,7 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-calendar-days" %}Events at/with the ELLIS Unit Graz
 
-{% include section.html %}
 ## Upcoming & regular events
 
 {% capture text %}
