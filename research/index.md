@@ -9,6 +9,8 @@ nav:
 
 In our unit we work on a broad range of cutting-edge fundamental research topics to strenghten the development of high-level AI in Europe. We are also highly connected to other researchers and the industry within Graz and Austria.
 
+{% capture text %}
+
 {%
   include button.html
   link="research"
@@ -32,7 +34,7 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 tba
 
-
+{% endcapture %}
 
 {% include section.html %}
 
