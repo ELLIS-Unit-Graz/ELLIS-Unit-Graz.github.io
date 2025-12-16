@@ -38,7 +38,7 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {%
   include button.html
-  link="research"
+  link="https://sites.google.com/view/efficientml"
   text="Learn more here"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@ This reading group aims to help onboard young scientists interested in the topic
 {%
   include feature.html
   image="images/readinggroup.png"
-  link="research"
+  link="https://sites.google.com/view/efficientml"
   title="Reading Group: Mathematics & Efficiency of Deep Learning"
   flip=true
   style="bare"
@@ -66,7 +66,7 @@ The ELLIS Unit Graz was represented at this year's ELLIS coordinator's retreat f
 
 {%
   include button.html
-  link="research"
+  link="https://ellis.eu/news/strengthening-collaboration-across-europe-the-2nd-ellis-coordinators-retreat"
   text="see"
   icon="fa-solid fa-arrow-right"
   flip=true
