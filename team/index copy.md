@@ -7,7 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Our Members
 
+
 {% include list.html data="members" component="portrait" filter="role == 'director' and group != 'alum'" %} {% include list.html data="members" component="portrait" filter="role != 'director' and role != 'coordinator'" %}{% include list.html data="members" component="portrait" filter="role == 'coordinator' and group != 'alum'" %}
+
+{% include section.html %}
+
+{% include list.html component="card" data="projects" filter="group == 'members'" style="small" %}
+
+{% include section.html background="images/background.jpg" dark=true %}
 
 {% include section.html %}
 
