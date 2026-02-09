@@ -2,7 +2,7 @@
 name: Robert Legenstein
 image: images/legenstein.jpg
 role: Fellow
-description: Fellow
+description: Fellow | BilAI BoD member
 affiliation:
 aliases:
   - R. Legenstein
