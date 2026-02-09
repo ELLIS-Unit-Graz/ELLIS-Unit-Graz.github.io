@@ -2,7 +2,7 @@
 name: Wolfgang Maass
 image: images/maass.jpg
 role: director
-description: Unit Director | Fellow
+description: Fellow | Director ELLIS Unit Graz
 affiliation:
 aliases:
   - W. Maass
