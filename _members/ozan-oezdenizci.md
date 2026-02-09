@@ -3,7 +3,7 @@ name: Ozan Özdenizci
 image: images/oezdenizci.JPG
 role: Member
 description: Member
-affiliation: Institute of Machine Learning and Neural Computation
+affiliation:
 aliases:
   - O. Özdenizci
   - O Özdenizci
@@ -12,10 +12,13 @@ links:
   orcid: 0000-0002-5432-2422
 ---
 
-I am an Assistant Professor in the Institute of Machine Learning and Neural Computation at Graz University of Technology, Austria.
+Ozan Özdenizci is an Assistant Professor in the [Institute of Machine Learning and Neural Computation](https://www.tugraz.at/institute/iml/home).
 
-My research aims to address robustness, safety, and resource-efficiency of machine learning. I am mainly working on parsimonious and efficient deep learning algorithms that integrate security and privacy considerations to build reliable AI systems. These methods are widely applicable for learning-based computing across various domains, such as computer vision, autonomously learning systems, and neural engineering.
+His research focuses on: 
+- Robustness, Security & Pricacy in ML
+- Efficient Learning Algorithms & Architectures
 
+Please see his [website](https://oozdenizci.github.io/) for more information.
 
 {%
   include tags.html
