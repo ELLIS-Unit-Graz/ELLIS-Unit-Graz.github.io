@@ -3,7 +3,7 @@ name: Horst Bischof
 image: images/bischof.jpg
 role: Member
 description: Member
-affiliation: Technische Universität Graz
+affiliation: 
 aliases:
   - H. Bischof
   - H Bischof
