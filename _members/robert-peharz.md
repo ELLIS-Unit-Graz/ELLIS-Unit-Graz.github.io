@@ -3,7 +3,7 @@ name: Robert Peharz
 image: images/peharz.jpg
 role: Scholar
 description: Scholar
-affiliation: Institute of Machine Learning and Neural Computation
+affiliation:
 aliases:
   - R. Peharz
   - R Peharz
@@ -12,9 +12,14 @@ links:
   orcid: 0000-0002-8644-9655
 ---
 
-Assistant Professor at the Institute of Machine Learning and Neural Computation at TU Graz
+Robert Peharz is Assistant Professor at the [Institute of Machine Learning and Neural Computation](https://www.tugraz.at/institute/iml/home).
 
-Research Interests: AI, probabilistic machine learning, inference, tractability, causality, active learning, Bayesian optimization, experimental design, physics-informed learning, neurosymbolic learning 
+His research focuses on: 
+- Probabilistic Models
+- Neurosymbolic AI
+- AI for Science
+
+Please see his [website](https://robert-peharz.github.io/) for more information.
 
 {%
   include tags.html

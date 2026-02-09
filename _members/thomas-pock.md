@@ -3,18 +3,22 @@ name: Thomas Pock
 image: images/pock.jpeg
 role: Member
 description: Member
-affiliation: Institute of Computer Graphics and Vision
+affiliation:
 aliases:
   - T. Pock
   - T Pock
 links:
-  home-page: https://www.tugraz.at/institute/icg/research/team-pock/people/pock/
+  home-page: https://ivc.tugraz.at/people/thomas-pock/
   orcid: 0000-0001-6120-1058
 ---
 
-Professor at the Institute of Computer Graphics and Vision at TU Graz.
+Thomas pock is full Professor at the [Institute of Computer Graphics and Vision](https://ivc.tugraz.at/).
 
-The focus of his research is image processing, computer vision, inverse problems, convex and non-smooth optimization, and machine learning.
+His research focuses on: 
+- Non-smooth & Convex Optimization
+- Computer Vision
+
+Please see his [website](https://ivc.tugraz.at/people/thomas-pock/) for more information.
 
 
 {%
