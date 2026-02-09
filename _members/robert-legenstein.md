@@ -3,7 +3,7 @@ name: Robert Legenstein
 image: images/legenstein.jpg
 role: Fellow
 description: Fellow
-affiliation: Institute of Machine Learning and Neural Computation
+affiliation:
 aliases:
   - R. Legenstein
   - R Legenstein
@@ -12,9 +12,13 @@ links:
   orcid: 0000-0002-8724-5507
 ---
 
-Professor and Institute Head of the Institute of Machine Learning and Neural Computation at TU Graz
+Robert Legenstein is Professor and Institute Head of the [Institute of Machine Learning and Neural Computation](https://www.tugraz.at/institute/iml/home). 
 
-Research Interests:
+His research focuses on: 
+- Brain-inspired Computing & Energy-efficient ML
+- Computation and Learning in Biological Neuronal Systems
+
+Please see his [website](https://www.tugraz.at/institute/iml/people/prof-legenstein/) for more information.
 
 {%
   include tags.html

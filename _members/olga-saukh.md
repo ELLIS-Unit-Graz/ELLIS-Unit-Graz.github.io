@@ -1,6 +1,6 @@
 ---
 name: Olga Saukh
-image: images/saukh.jpeg
+image: images/saukh.jpg
 role: Member
 description: Member
 affiliation: Institute of Technical Informatics
