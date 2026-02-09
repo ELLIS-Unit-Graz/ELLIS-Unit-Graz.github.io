@@ -12,7 +12,7 @@ links:
   orcid: 0000-0002-9096-6671
 ---
 
-Horst Bischof is the rector of [Graz University of Technology](https://www.tugraz.at/en/tu-graz/organisational-structure/rectorate-of-tu-graz). 
+Horst Bischof is the Rector of [Graz University of Technology](https://www.tugraz.at/en/tu-graz/organisational-structure/rectorate-of-tu-graz). 
 
 His research focuses on: 
 - Computer Vision 

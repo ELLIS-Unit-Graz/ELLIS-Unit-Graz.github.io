@@ -12,7 +12,7 @@ links:
   orcid: 0000-0001-5293-2967
 ---
 
-Elisabeth Lex is a tenured full professor at the [Institute of Human-Centred Computing](https://www.tugraz.at/institute/hcc/home).
+Elisabeth Lex is a tenured Full Professor at the [Institute of Human-Centred Computing](https://www.tugraz.at/institute/hcc/home).
 
 Her research focuses on: 
 - Recommender Systems & Behavioral Analytics

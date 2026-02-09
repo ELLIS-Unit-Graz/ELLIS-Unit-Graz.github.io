@@ -12,7 +12,7 @@ links:
   orcid: 0000-0002-6356-3367
 ---
 
-Franz Pernkopf is full professor at the [Institute of Signal Processing and Speech Communication](https://www.spsc.tugraz.at/). 
+Franz Pernkopf is Full Professor at the [Institute of Signal Processing and Speech Communication](https://www.spsc.tugraz.at/). 
 
 His research focuses on: 
 - Resource-efficient Models for Intelligent Systems
