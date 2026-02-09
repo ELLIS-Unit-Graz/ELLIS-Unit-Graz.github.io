@@ -3,7 +3,7 @@ name: Bernhard Geiger
 image: images/geiger.jpg
 role: Member
 description: Member
-affiliation: Know Center Research GmbH | Institute of Signal Processing and Speech Communication
+affiliation: 
 aliases:
   - B. Geiger
   - B Geiger
@@ -11,6 +11,8 @@ links:
   home-page: https://entropictalks.blogspot.com/p/about-me.html
   orcid: 0000-0003-3257-743X
 ---
+
+Bernhard is Assistant Professor at the Institute of Signal Processing and Speech Communication and Know Center Research GmbH. His research focuses on: 
 
 - Information Theory for ML
 
