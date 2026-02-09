@@ -1,0 +1,1 @@
+https://entropictalks.blogspot.com/p/about-me.html
