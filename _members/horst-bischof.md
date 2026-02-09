@@ -1,6 +1,6 @@
 ---
 name: Horst Bischof
-image: images/bischof.png
+image: images/bischof.jpg
 role: Member
 description: Member
 affiliation: Technische Universität Graz
@@ -14,7 +14,8 @@ links:
 
 Rector of Graz University of Technology
 
-His research interests include object recognition, visual learning, on-line and life-long learning, motion and tracking, visual surveillance and biometrics and medical computer vision.
+- Computer Vision 
+- Online & Lifelong Learning
 
 {%
   include tags.html
