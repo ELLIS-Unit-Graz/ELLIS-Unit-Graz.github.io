@@ -3,7 +3,7 @@ name: Wolfgang Maass
 image: images/maass.jpg
 role: director
 description: Unit Director | Fellow
-affiliation: Institute of Machine Learning and Neural Computation
+affiliation:
 aliases:
   - W. Maass
   - W Maass
@@ -12,10 +12,13 @@ links:
   orcid: 0000-0002-1178-087X
 ---
 
-Professor at the Institute of Machine Learning and Neural Computation at TU Graz
+Wolfgang Maass is Emeritus Professor at the [Institute of Machine Learning and Neural Computation](https://www.tugraz.at/institute/iml/home).
 
-Research Interests:
-information processing in biological neural systems, neural networks, machine learning, computational complexity, theory of computation
+His research focuses on: 
+- Learning Processes in the Brain through Theory and Large-scale Models
+- Computation and Learning in Biological Neuronal Systems
+
+Please see his [website](https://igi-web.tugraz.at/people/maass/) for more information.
 
 
 {%
