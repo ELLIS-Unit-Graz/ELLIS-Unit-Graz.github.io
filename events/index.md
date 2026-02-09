@@ -35,6 +35,7 @@ This reading group aims to help onboard young scientists interested in the topic
 %}
 
 {% include section.html %}
+
 ## Past events
 
 {% capture text %}
@@ -54,7 +55,7 @@ Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdiscip
 
 {%
   include feature.html
-  image="images/ELLIS-Society-Photo-67.jpg"
+  image="images/WorkshopEurips2025.jpg"
   link="research"
   title="Workshop on Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
   text=text
