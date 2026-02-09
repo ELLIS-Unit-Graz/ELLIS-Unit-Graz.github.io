@@ -11,29 +11,6 @@ nav:
 
 {% capture text %}
 
-We are happy to announce that together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdisciplinair/ellis-unit), we will host a workshop at the [ELLIS UnConference](https://eurips.cc/ellis/) on December 2, 2025 prior to EurIPS 2025 in Copenhagen. **Call for contributions is open until October 20!**
-
-{%
-  include button.html
-  link="workshops"
-  text="Learn more about content and registration here"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/ELLIS-Society-Photo-67.jpg"
-  link="research"
-  title="Workshop on Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
-  text=text
-%}
-
-{% capture text %}
-
 This reading group aims to help onboard young scientists interested in the topic of efficient ML and offers researchers at all levels a platform for an open dialog to foster collaboration, and stay up-to-date with rapid developments in the field. We welcome and discuss fresh research findings published as a pre-print or recently presented at research venues.
 
 {%
@@ -59,6 +36,29 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {% include section.html %}
 ## Past events
+
+{% capture text %}
+
+Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdisciplinair/ellis-unit), we hosted a highly engaging workshop at the [ELLIS UnConference](https://eurips.cc/ellis/) on December 2, 2025 prior to EurIPS 2025 in Copenhagen. 
+
+{%
+  include button.html
+  link="workshops"
+  text="Learn more about the workshop here"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ELLIS-Society-Photo-67.jpg"
+  link="research"
+  title="Workshop on Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
+  text=text
+%}
 
 {% capture text %}
 
