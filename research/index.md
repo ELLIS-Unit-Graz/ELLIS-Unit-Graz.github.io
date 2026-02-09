@@ -13,7 +13,7 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 {%
   include button.html
-  link="research/braininspiredML"
+  link="research/research/braininspiredML"
   text="Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
