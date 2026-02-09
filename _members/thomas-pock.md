@@ -1,6 +1,6 @@
 ---
 name: Thomas Pock
-image: images/pock.jpeg
+image: images/pock.jpg
 role: Member
 description: Member
 affiliation:
