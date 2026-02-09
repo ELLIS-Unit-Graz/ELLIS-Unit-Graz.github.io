@@ -12,10 +12,10 @@ links:
   orcid: 0000-0003-3257-743X
 ---
 
-Bernhard is Assistant Professor at the [Institute of Signal Processing and Speech Communication](https://www.spsc.tugraz.at/) and [Know Center Research GmbH](https://www.know-center.at/). His research focuses on: 
+Bernhard Geiger is Assistant Professor at the [Institute of Signal Processing and Speech Communication](https://www.spsc.tugraz.at/) and [Know Center Research GmbH](https://www.know-center.at/). 
 
+His research focuses on: 
 - Information Theory for ML
-
 - Physics-Informed ML
 
 Please see his [website](https://entropictalks.blogspot.com/p/about-me.html) for more information.

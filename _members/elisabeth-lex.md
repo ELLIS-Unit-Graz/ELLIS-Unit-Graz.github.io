@@ -3,7 +3,7 @@ name: Elisabeth Lex
 image: images/lex.jpg
 role: Scholar
 description: Scholar
-affiliation: Institute of Human-Centred Computing
+affiliation:
 aliases:
   - E. Lex
   - E Lex
@@ -12,9 +12,14 @@ links:
   orcid: 0000-0001-5293-2967
 ---
 
-Univ.-Prof. Dr. Elisabeth Lex is a tenured full professor at Graz University of Technology (TUG).
+Elisabeth Lex is a tenured full professor at the [Institute of Human-Centred Computing](https://www.tugraz.at/institute/hcc/home).
 
-Research Topics: Recommender Systems, User Modeling, Information Retrieval, Machine Learning, Data Science
+Her research focuses on: 
+- Recommender Systems & Behavioral Analytics
+- Domain-specialized ML & Trust
+
+Please see her [website](https://elisabethlex.info/#) for more information.
+
 
 {%
   include tags.html

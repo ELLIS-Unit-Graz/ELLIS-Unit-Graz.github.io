@@ -3,7 +3,7 @@ name: Franz Pernkopf
 image: images/pernkopf.jpg
 role: Member
 description: Member
-affiliation: Institute of Signal Processing and Speech Communication
+affiliation:
 aliases:
   - F. Pernkopf
   - F Pernkopf
@@ -12,9 +12,13 @@ links:
   orcid: 0000-0002-6356-3367
 ---
 
-Professor at the Signal Processing and Speech Communication Laboratory at TU Graz.
+Franz Pernkopf is full professor at the [Institute of Signal Processing and Speech Communication](https://www.spsc.tugraz.at/). 
 
-His research interests include machine learning, discriminative learning, graphical models, feature selection, finite mixture models, and image- and speech processing applications.
+His research focuses on: 
+- Resource-efficient Models for Intelligent Systems
+- Dependable AI for Industry, Medicine and Speech
+
+Please see his [website](https://www.spsc.tugraz.at/people/franz-pernkopf.html) for more information.
 
 {%
   include tags.html
