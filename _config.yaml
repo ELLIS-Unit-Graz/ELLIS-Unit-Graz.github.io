@@ -1,7 +1,8 @@
 # site properties and page defaults
-title: 
+title: ELLIS Unit Graz
 subtitle: 
 description:
+show-title: false
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
