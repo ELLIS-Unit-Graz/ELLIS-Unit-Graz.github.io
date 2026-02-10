@@ -1,5 +1,5 @@
 ---
-title: Events
+title: News & Events
 nav:
   order: 1
   tooltip: 
