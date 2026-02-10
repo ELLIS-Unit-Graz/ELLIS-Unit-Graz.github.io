@@ -13,30 +13,6 @@ In our unit we work on a broad range of cutting-edge fundamental research topics
 
 {% include section.html %}
 
-
-<div style="display: flex; justify-content: space-around;">
-  <div style="flex: 1; padding: 10px;">
-{%
-  include figure.html
-  image="images/1.png"
-  caption="Brain-inspired Machine Learning"
-  link="research/braininspiredML"
-  width="100%"
-%}
-  </div>
-  <div style="flex: 1; padding: 10px;">
-{%
-  include figure.html
-  image="images/2.png"
-  caption="Resource-efficient Deep Learning"
-  link="research/resourceefficientDL"
-  width="100%"
-%}
-
-  </div>
-</div>
-
-
 # {% include icon.html icon="fa-solid fa-newspaper" %}Key publications from our Unit
 
 This website is still under construction, a list of key publications from members of the ELLIS Unit Graz will follow. Stay tuned.
