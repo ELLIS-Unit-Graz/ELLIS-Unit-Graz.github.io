@@ -1,6 +1,6 @@
 ---
 name: Ozan Özdenizci
-image: images/ozan.jpg
+image: images/oezdenizci.jpg
 role: member
 description: Member
 affiliation:
