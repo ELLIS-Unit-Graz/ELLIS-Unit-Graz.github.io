@@ -6,4 +6,4 @@ title: Resource-efficient Deep Learning
 
 More information will follow.
 
-Involved researchers: [Wolfgang Maass](members/wolfgang-maass), [Robert Legenstein](members/robert-legenstein), [Franz Pernkopf](members/franz-pernkopf), [Olga Saukh](members/olga-saukh), [Ozan Özdenizci](ozan-oezdenizci)
+Involved researchers: [Wolfgang Maass](https://ellis-unit-graz.github.io/members/wolfgang-maass.html), [Robert Legenstein](https://ellis-unit-graz.github.io/members/robert-legenstein.html), [Franz Pernkopf](https://ellis-unit-graz.github.io/members/franz-pernkopf.html), [Olga Saukh](https://ellis-unit-graz.github.io/members/olga-saukh.html), [Ozan Özdenizci](https://ellis-unit-graz.github.io/ozan-oezdenizci.html)

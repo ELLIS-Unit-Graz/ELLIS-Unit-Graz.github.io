@@ -6,4 +6,4 @@ title: Probabilistic Machine Learning
 
 More information will follow.
 
-Involved researchers: [Robert Peharz](members/robert-peharz), [Bernhard Geiger](members/bernhard-geiger), [Franz Pernkopf](members/franz-pernkopf)
+Involved researchers: [Robert Peharz](https://ellis-unit-graz.github.io/members/robert-peharz.html), [Bernhard Geiger](https://ellis-unit-graz.github.io/members/bernhard-geiger.html), [Franz Pernkopf](https://ellis-unit-graz.github.io/members/franz-pernkopf.html)

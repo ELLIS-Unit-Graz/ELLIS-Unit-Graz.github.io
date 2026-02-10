@@ -6,4 +6,4 @@ title: Trustworthy AI
 
 More information will follow.
 
-Involved researchers: [Olga Saukh](members/olga-saukh), [Ozan Özdenizci](ozan-oezdenizci)
+Involved researchers: [Olga Saukh](https://ellis-unit-graz.github.io/members/olga-saukh.html), [Ozan Özdenizci](https://ellis-unit-graz.github.io/ozan-oezdenizci.html)

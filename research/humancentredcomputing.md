@@ -6,4 +6,4 @@ title: Human-Centred Computing
 
 More information will follow.
 
-Involved researchers: [Elisabeth Lex](members/elisabeth-lex)
+Involved researchers: [Elisabeth Lex](https://ellis-unit-graz.github.io/members/elisabeth-lex.html)

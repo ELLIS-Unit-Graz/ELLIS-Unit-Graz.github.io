@@ -6,4 +6,4 @@ title: Visual Computing
 
 More information will follow.
 
-Involved researchers: [Horst Bischof](members/horst-bischof), [Thomas Pock](members/thomas-pock)
+Involved researchers: [Horst Bischof](https://ellis-unit-graz.github.io/members/horst-bischof.html), [Thomas Pock](https://ellis-unit-graz.github.io/members/thomas-pock.html)
