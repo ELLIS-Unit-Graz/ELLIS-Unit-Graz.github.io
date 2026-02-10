@@ -22,7 +22,14 @@ Please see his [website](https://www.spsc.tugraz.at/people/franz-pernkopf.html) 
 
 {%
   include tags.html
-  tags="Probabilistic Machine Learning, resource-efficient deep learning"
+  tags="Probabilistic Machine Learning"
   repo="your-lab/some-repo"
-  link="research"
+  link="research/probabilisticML"
+%}
+
+{%
+  include tags.html
+  tags="resource-efficient deep learning"
+  repo="your-lab/some-repo"
+  link="research/resourceefficientDL"
 %}

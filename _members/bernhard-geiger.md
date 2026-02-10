@@ -24,5 +24,5 @@ Please see his [website](https://entropictalks.blogspot.com/p/about-me.html) for
   include tags.html
   tags="Probabilistic Machine Learning"
   repo="your-lab/some-repo"
-  link="research"
+  link="research/probabilisticML"
 %}
