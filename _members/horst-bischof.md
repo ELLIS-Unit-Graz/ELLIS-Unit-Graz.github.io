@@ -21,6 +21,6 @@ His research focuses on:
 {%
   include tags.html
   tags="visual computing"
-  repo=
+  repo="your-lab/some-repo"
   link="research"
 %}

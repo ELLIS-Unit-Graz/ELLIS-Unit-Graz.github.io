@@ -24,6 +24,6 @@ Please see her [website](https://elisabethlex.info/#) for more information.
 {%
   include tags.html
   tags="human centred computing"
-  repo=
+  repo="your-lab/some-repo"
   link="research"
 %}

@@ -23,6 +23,6 @@ Please see her [website](https://sites.google.com/view/olgasaukh/home) for more 
 {%
   include tags.html
   tags="trustworthy AI, resource-efficient deep learning"
-  repo=
+  repo="your-lab/some-repo"
   link="research"
 %}

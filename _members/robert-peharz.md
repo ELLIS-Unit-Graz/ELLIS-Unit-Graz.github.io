@@ -24,6 +24,6 @@ Please see his [website](https://robert-peharz.github.io/) for more information.
 {%
   include tags.html
   tags="Probabilistic Machine Learning"
-  repo=
+  repo="your-lab/some-repo"
   link="research"
 %}

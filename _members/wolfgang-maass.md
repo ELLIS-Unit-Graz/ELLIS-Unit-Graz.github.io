@@ -24,6 +24,6 @@ Please see his [website](https://igi-web.tugraz.at/people/maass/) for more infor
 {%
   include tags.html
   tags="brain-inspired machine learning, resource-efficient deep learning"
-  repo=
+  repo="your-lab/some-repo"
   link="research"
 %}
