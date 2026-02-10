@@ -18,6 +18,8 @@ His research focuses on:
 - Computer Vision 
 - Online & Lifelong Learning
 
+Image source: Lunghammer - TU Graz
+
 {%
   include tags.html
   tags="visual computing"
