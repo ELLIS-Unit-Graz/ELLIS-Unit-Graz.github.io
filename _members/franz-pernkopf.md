@@ -1,7 +1,7 @@
 ---
 name: Franz Pernkopf
 image: images/pernkopf.jpg
-role: Member
+role: member
 description: Member
 affiliation:
 aliases:

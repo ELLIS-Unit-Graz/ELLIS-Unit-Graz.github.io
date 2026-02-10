@@ -1,8 +1,8 @@
 ---
 name: Robert Peharz
 image: images/peharz.jpg
-role: Scholar | Spokesperson GraML
-description: Scholar
+role: scholar 
+description: Scholar | Spokesperson GraML
 affiliation:
 aliases:
   - R. Peharz

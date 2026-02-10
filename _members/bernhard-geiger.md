@@ -1,7 +1,7 @@
 ---
 name: Bernhard Geiger
 image: images/geiger.jpg
-role: Member
+role: member
 description: Member
 affiliation: 
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Elisabeth Lex
 image: images/lex.jpg
-role: Scholar
+role: scholar
 description: Scholar
 affiliation:
 aliases:

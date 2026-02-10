@@ -1,7 +1,7 @@
 ---
 name: Olga Saukh
 image: images/saukh.jpg
-role: Member
+role: member
 description: Member
 affiliation: 
 aliases:

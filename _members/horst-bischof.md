@@ -1,8 +1,8 @@
 ---
 name: Horst Bischof
 image: images/bischof.jpg
-role: Member | Rector TU Graz
-description: Member
+role: member 
+description: Member | Rector TU Graz
 affiliation: 
 aliases:
   - H. Bischof
