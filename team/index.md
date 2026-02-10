@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 3
   tooltip: Our Members
 ---
 
@@ -14,9 +14,3 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'coordinator'" %}
 
 {% include section.html %}
-
-# {% include icon.html icon="fa-solid fa-handshake"%} Partners
-
-Our researchers are actively involved in various consortia, projects, and collaborations. 
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
