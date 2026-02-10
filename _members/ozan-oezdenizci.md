@@ -23,6 +23,6 @@ Please see his [website](https://oozdenizci.github.io/) for more information.
 {%
   include tags.html
   tags="trustworthy AI, resource-efficient deep learning"
-  repo="your-lab/some-repo"
+  repo=
   link="research"
 %}

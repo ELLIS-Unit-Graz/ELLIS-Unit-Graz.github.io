@@ -23,6 +23,6 @@ Please see his [website](https://www.tugraz.at/institute/iml/people/prof-legenst
 {%
   include tags.html
   tags="brain-inspired machine learning, resource-efficient deep learning"
-  repo="your-lab/some-repo"
+  repo=
   link="research"
 %}

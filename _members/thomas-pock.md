@@ -24,6 +24,6 @@ Please see his [website](https://ivc.tugraz.at/people/thomas-pock/) for more inf
 {%
   include tags.html
   tags="visual computing"
-  repo="your-lab/some-repo"
+  repo=
   link="research"
 %}
