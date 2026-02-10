@@ -9,35 +9,7 @@ nav:
 
 In our unit we work on a broad range of cutting-edge fundamental research topics to strenghten the development of high-level AI in Europe. We are also highly connected to other researchers and the industry within Graz and Austria.
 
-{% include list.html data="posts" component="post-excerpt" %}
-
-
-{% capture text %}
-
-{%
-  include button.html
-  link="research/research/braininspiredML"
-  text="Projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/1.png"
-  link="research"
-  title="Brain-inspired Machine Learning"
-  text=text
-%}
-
-{% capture text %}
-
-tba
-
-{% endcapture %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" style="small" %}
 
 {% include section.html %}
 
