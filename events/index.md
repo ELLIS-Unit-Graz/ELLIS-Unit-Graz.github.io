@@ -44,7 +44,7 @@ Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdiscip
 
 {%
   include button.html
-  link="events/workshopneurips25"
+  link="events/workshopeurips25"
   text="Learn more about the workshop here"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -56,7 +56,7 @@ Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdiscip
 {%
   include feature.html
   image="images/WorkshopEurips2025_1.jpg"
-  link="research"
+  link="events/workshopeurips25"
   title="Workshop on Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
   text=text
 %}
