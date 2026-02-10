@@ -1,8 +1,5 @@
 ---
 title: Workshops
-nav:
-  order: 3
-  tooltip: ELLIS UnConference
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence
