@@ -5,9 +5,9 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-calendar-days" %}Events at/with the ELLIS Unit Graz
+# {% include icon.html icon="fa-solid fa-calendar-days" %}News & Events
 
-## Upcoming & regular events
+## Upcoming and regular news & events
 
 {% capture text %}
 
@@ -36,7 +36,7 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {% include section.html %}
 
-## Past events
+## Past news and events
 
 {% capture text %}
 

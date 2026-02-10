@@ -3,19 +3,19 @@
 # team member roles
 
 director:
-  icon: fa-solid fa-d
+  icon: fa-solid fa-hexagon-nodes
   description: Director
 
 fellow:
-  icon: fa-solid fa-f
+  icon: fa-solid fa-hexagon-nodes
   description: ELLIS Fellow
 
 scholar:
-  icon: fa-solid fa-s
+  icon: fa-solid fa-hexagon-nodes
   description: ELLIS Scholar
 
 member:
-  icon: fa-solid fa-m
+  icon: fa-solid fa-hexagon-nodes
   description: ELLIS Member
 
 postdoc:
