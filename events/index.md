@@ -16,7 +16,7 @@ This reading group aims to help onboard young scientists interested in the topic
 {%
   include button.html
   link="https://sites.google.com/view/efficientml"
-  text="Learn more here"
+  text="More info and schedule"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
