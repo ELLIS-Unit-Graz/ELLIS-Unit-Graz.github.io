@@ -55,7 +55,7 @@ Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdiscip
 
 {%
   include feature.html
-  image="images/WorkshopEurips2025.jpg"
+  image="images/WorkshopEurips2025_1.jpg"
   link="research"
   title="Workshop on Energy-Efficient AI: Models, Algorithms, and Hardware for Sustainable Intelligence"
   text=text
