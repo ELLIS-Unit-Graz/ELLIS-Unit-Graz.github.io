@@ -44,7 +44,7 @@ Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdiscip
 
 {%
   include button.html
-  link="workshops"
+  link="events/workshopneurips25"
   text="Learn more about the workshop here"
   icon="fa-solid fa-arrow-right"
   flip=true
