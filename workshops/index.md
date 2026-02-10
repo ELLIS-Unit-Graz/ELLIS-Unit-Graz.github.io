@@ -9,7 +9,7 @@ nav:
 
 As artificial intelligence systems grow in scale and capability, their energy demands are increasing at an unsustainable pace. This workshop addresses the urgent need for energy-efficient AI, a field that seeks to develop environmentally responsible and computationally efficient approaches to machine learning. The goal is to explore innovations that reduce energy consumption across the AI stack — from models and learning algorithms to hardware implementations — while maintaining or even enhancing performance. One source of inspiration for reaching this goal is the brain, which manages to provide intelligence with 20W. 
 
-{% include figure.html image="images/ELLIS-Society-Photo-67.jpg" width="400px" %}
+{% include figure.html image="images/ELLIS-Society-Photo-67.jpg" width="400px" %} {% include figure.html image="images/ELLIS-Society-Photo-67.jpg" width="400px" %}
 
 The workshop will be inclusive and accessible to a broad audience across machine learning, computer architecture, and systems engineering. Topics include but are not limited to: 
 
