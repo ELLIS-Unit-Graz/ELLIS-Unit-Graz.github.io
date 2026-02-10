@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-calendar-days" %}News & Events
 
-## Upcoming and regular news & events
+## Upcoming & regular
 
 {% capture text %}
 
@@ -36,7 +36,7 @@ This reading group aims to help onboard young scientists interested in the topic
 
 {% include section.html %}
 
-## Past news and events
+## In the past
 
 {% capture text %}
 
