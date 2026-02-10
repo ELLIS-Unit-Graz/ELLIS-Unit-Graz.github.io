@@ -22,6 +22,8 @@ This workshop aims to bring together researchers and practitioners from diverse 
 
 Organizers: Wolfgang Maass, Marcel van Gerven
 
+{% include section.html %}
+
 {% include figure.html image="images/WorkshopEurips2025_1.jpg" width="400px" %} 
 {% include figure.html image="images/WorkshopEurips2025_2.jpg" width="400px" %}
 {% include figure.html image="images/WorkshopEurips2025_3.jpg" width="400px" %}
