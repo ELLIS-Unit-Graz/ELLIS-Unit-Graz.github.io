@@ -45,7 +45,7 @@ Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdiscip
 {%
   include button.html
   link="events/workshopeurips25"
-  text="Learn more about the workshop here"
+  text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -68,7 +68,7 @@ The ELLIS Unit Graz was represented at this year's ELLIS coordinator's retreat f
 {%
   include button.html
   link="https://ellis.eu/news/strengthening-collaboration-across-europe-the-2nd-ellis-coordinators-retreat"
-  text="see"
+  text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
