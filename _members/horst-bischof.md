@@ -22,5 +22,5 @@ His research focuses on:
   include tags.html
   tags="visual computing"
   repo="your-lab/some-repo"
-  link="research"
+  link="research/visualcomputing"
 %}

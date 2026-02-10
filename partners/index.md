@@ -9,4 +9,4 @@ nav:
 
 Our researchers are actively involved in various consortia, projects, and collaborations. 
 
-{% include list.html component="card" data="projects" filter="!group" %}
+{% include list.html component="card" data="projects" filter="!group" style="normal" %}
