@@ -9,8 +9,6 @@ nav:
 
 As artificial intelligence systems grow in scale and capability, their energy demands are increasing at an unsustainable pace. This workshop addresses the urgent need for energy-efficient AI, a field that seeks to develop environmentally responsible and computationally efficient approaches to machine learning. The goal is to explore innovations that reduce energy consumption across the AI stack — from models and learning algorithms to hardware implementations — while maintaining or even enhancing performance. One source of inspiration for reaching this goal is the brain, which manages to provide intelligence with 20W. 
 
-{% include figure.html image="images/WorkshopEurips2025_1.jpg" width="400px" %} {% include figure.html image="images/WorkshopEurips2025_2.jpg" width="400px" %}{% include figure.html image="images/WorkshopEurips2025_3.jpg" width="400px" %}
-
 The workshop will be inclusive and accessible to a broad audience across machine learning, computer architecture, and systems engineering. Topics include but are not limited to: 
 
 - Model compression and pruning techniques that reduce inference and training costs
@@ -24,11 +22,16 @@ This workshop aims to bring together researchers and practitioners from diverse 
 
 Organizers: Wolfgang Maass, Marcel van Gerven
 
+{% include figure.html image="images/WorkshopEurips2025_1.jpg" width="400px" %} 
+{% include figure.html image="images/WorkshopEurips2025_2.jpg" width="400px" %}
+{% include figure.html image="images/WorkshopEurips2025_3.jpg" width="400px" %}
+Photo credits: Shih-Chii Liu
+
 {% include section.html %}
 
 # Workshop Agenda
 
-The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [EurIPS Copenhagen](https://eurips.cc/) and will take place on **December 2, 2025** at the [Bella Center Copenhagen](https://eurips.cc/travel-information/), Center Blvd. 5, 2300 København S, Denmark. Our workshop will take place in **room 20**.
+The [ELLIS UnConference](https://eurips.cc/ellis/) workshop is co-located with [EurIPS Copenhagen](https://eurips.cc/) and took place on **December 2, 2025** at the [Bella Center Copenhagen](https://eurips.cc/travel-information/), Center Blvd. 5, 2300 København S, Denmark, **room 20**.
 
 **Time** | **Session**
 :--------|:-----------
