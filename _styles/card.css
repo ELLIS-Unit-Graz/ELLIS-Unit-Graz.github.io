@@ -5,7 +5,7 @@
   flex-direction: column;
   width: 350px;
   max-width: calc(100% - 20px - 20px);
-  margin: 10px;
+  margin: 20px;
   background: var(--background);
   border-radius: var(--rounded);
   overflow: hidden;
@@ -18,17 +18,17 @@
 }
 
 .card-image img {
-  aspect-ratio: 2/2;
+  aspect-ratio: 3/2;
   object-fit: cover;
-  width: 80%;
+  width: 100%;
 }
 
 .card-text {
   display: inline-flex;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: column;
-  gap: 5px;
+  gap: 20px;
   max-width: 100%;
   padding: 20px;
 }
@@ -38,7 +38,6 @@
 }
 
 .card-title {
-  margin-top: -10px !important;
   font-family: var(--heading);
   font-weight: var(--semi-bold);
 }
