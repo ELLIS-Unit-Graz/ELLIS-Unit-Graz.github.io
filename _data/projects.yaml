@@ -11,7 +11,7 @@
   subtitle:
   group: featured
   image: images/2.png
-  link: https://github.com/
+  link: research/resourceefficientDL
   description: 
   repo: greenelab/lab-website-template
   tags:
@@ -20,7 +20,7 @@
   subtitle:
   group: featured
   image: images/3.png
-  link: https://github.com/
+  link: research/humancentredcomputing
   description: 
   repo: greenelab/lab-website-template
   tags:
@@ -29,7 +29,7 @@
   subtitle:
   group: featured
   image: images/4.png
-  link: https://github.com/
+  link: research/trustworthyAI
   description: 
   repo: greenelab/lab-website-template
   tags:
@@ -38,7 +38,7 @@
   subtitle:
   group: featured
   image: images/5.png
-  link: https://github.com/
+  link: research/visualcomputing
   description: 
   repo: greenelab/lab-website-template
   tags:
@@ -47,7 +47,7 @@
   subtitle:
   group: featured
   image: images/6.png
-  link: https://github.com/
+  link: research/probabilisticML
   description: 
   repo: greenelab/lab-website-template
   tags:
