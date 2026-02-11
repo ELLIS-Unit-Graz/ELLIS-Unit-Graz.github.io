@@ -28,7 +28,7 @@ The ELLIS Unit Graz is co-organizing a workshop at this years **Austrian Symposi
   include feature.html
   image="images/airovworkshop.png"
   link="https://airov.at/2026/workshop/PhysicsML.html"
-  title="Workshop @AIROV2026: Physics-Informed Machine Learning and Hybrid Modelling"
+  title="Workshop @AIROV2026: Physics-Informed ML and Hybrid Modelling"
   flip=true
   style="bare"
   text=text
