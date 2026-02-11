@@ -11,7 +11,7 @@ nav:
 
 {% capture text %}
 
-The ELLIS Unit Graz is co-organizing a workshop at this years **Austrian Symposium on AI, Robotics and Vision (AIROV)**, April 13–15, 2026 in Leoben. If you are working on hybrid modelling, physics-informed learning, uncertainty quantification, or related methods, we would be delighted to receive your contribution. **Submission deadline: February 28, 2026**
+The ELLIS Unit Graz is co-organizing a workshop at this years' **Austrian Symposium on AI, Robotics and Vision (AIROV)**, April 13–15, 2026 in Leoben. If you are working on hybrid modelling, physics-informed learning, uncertainty quantification, or related methods, we would be delighted to receive your contribution. **Submission deadline: February 28, 2026**
 
 {%
   include button.html
