@@ -28,7 +28,7 @@ The ELLIS Unit Graz is co-organizing a workshop at this years **Austrian Symposi
   include feature.html
   image="images/airovworkshop.png"
   link="https://airov.at/2026/workshop/PhysicsML.html"
-  title="Workshop @AIROV2026: Physics-Informed ML and Hybrid Modelling"
+  title="Workshop: Physics-Informed ML and Hybrid Modelling"
   flip=true
   style="bare"
   text=text
@@ -53,7 +53,7 @@ This reading group examines the interplay between the **theoretical foundations 
   include feature.html
   image="images/readinggroup.png"
   link="https://sites.google.com/view/efficientml"
-  title="ELLIS Reading Group: Mathematics & Efficiency of Deep Learning"
+  title="Reading Group: Mathematics & Efficiency of Deep Learning"
   flip=true
   style="bare"
   text=text
