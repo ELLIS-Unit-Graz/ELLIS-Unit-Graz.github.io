@@ -65,7 +65,7 @@ This reading group examines the interplay between the **theoretical foundations 
 
 {% capture text %}
 
-Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdisciplinair/ellis-unit), we hosted a highly engaging workshop at the [ELLIS UnConference](https://eurips.cc/ellis/) on December 2, 2025 prior to EurIPS 2025 in Copenhagen. 
+Together with the [ELLIS Unit Nijmegen](https://www.ru.nl/afdelingen/interdisciplinair/ellis-unit), we hosted a highly engaging workshop at the [ELLIS UnConference](https://eurips.cc/ellis/) on December 2, 2025 prior to **EurIPS 2025** in Copenhagen. We heard about high-level research in this emerging field, discussed innovations that pave the way for efficient AI systems, and thought about how ELLIS can contribute to creating a sustainable European AI ecosystem. 
 
 {%
   include button.html
