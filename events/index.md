@@ -26,9 +26,9 @@ The ELLIS Unit Graz is co-organizing a workshop on Physics-Informed Machine Lear
 
 {%
   include feature.html
-  image="images/airovworkshop.jpeg"
+  image="images/airovworkshop.jpg"
   link="https://airov.at/2026/workshop/PhysicsML.html"
-  title="AIROV 2026 Workshop: Physics-Informed Machine Learning and Hybrid Modelling"
+  title="Workshop @AIROV2026: Physics-Informed Machine Learning and Hybrid Modelling"
   flip=true
   style="bare"
   text=text
