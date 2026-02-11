@@ -53,7 +53,7 @@ This reading group aims to help onboard young scientists interested in the topic
   include feature.html
   image="images/readinggroup.png"
   link="https://sites.google.com/view/efficientml"
-  title="Reading Group: Mathematics & Efficiency of Deep Learning"
+  title="ELLIS Reading Group: Mathematics & Efficiency of Deep Learning"
   flip=true
   style="bare"
   text=text
