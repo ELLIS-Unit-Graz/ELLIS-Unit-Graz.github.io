@@ -11,7 +11,7 @@ nav:
 
 {% capture text %}
 
-The ELLIS Unit Graz is co-organizing a workshop on Physics-Informed Machine Learning and Hybrid Modelling at this years **Austrian Symposium on AI, Robotics and Vision (AIROV)**, April 13–15, 2026 in Leoben. If you are working on hybrid modelling, physics-informed learning, uncertainty quantification, or related methods, we would be delighted to receive your contribution. **Submission deadline: February 28, 2026**
+The ELLIS Unit Graz is co-organizing a workshop at this years **Austrian Symposium on AI, Robotics and Vision (AIROV)**, April 13–15, 2026 in Leoben. If you are working on hybrid modelling, physics-informed learning, uncertainty quantification, or related methods, we would be delighted to receive your contribution. **Submission deadline: February 28, 2026**
 
 {%
   include button.html
@@ -36,7 +36,7 @@ The ELLIS Unit Graz is co-organizing a workshop on Physics-Informed Machine Lear
 
 {% capture text %}
 
-This reading group aims to help onboard young scientists interested in the topic of efficient ML and offers researchers at all levels a platform for an open dialog to foster collaboration, and stay up-to-date with rapid developments in the field. We welcome and discuss fresh research findings published as a pre-print or recently presented at research venues.
+This reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. It offers researchers at all levels a platform for an open dialog to foster collaboration and discuss fresh research findings published as a pre-print or recently presented at research venues. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
 
 {%
   include button.html
