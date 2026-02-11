@@ -36,7 +36,7 @@ The ELLIS Unit Graz is co-organizing a workshop at this years' **Austrian Sympos
 
 {% capture text %}
 
-This reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. It offers researchers at all levels a platform for an open dialog to foster collaboration and discuss fresh research findings published as a pre-print or recently presented at research venues. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
+This reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
 
 {%
   include button.html
