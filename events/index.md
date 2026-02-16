@@ -28,7 +28,7 @@ The ELLIS Unit Graz is co-organizing the **Dagstuhl Seminar 26102** entitled "Te
   include feature.html
   image="images/dagstuhl.jpg"
   link="https://www.dagstuhl.de/26102"
-  title="Dagstuhl Seminar: Tensor Factorizations Meet Probabilistic Circuits"
+  title="Seminar: Tensor Factorizations Meet Probabilistic Circuits"
   flip=true
   style="bare"
   text=text
