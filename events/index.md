@@ -132,3 +132,25 @@ We attended the ELLIS coordinator's retreat from October 6-8, 2025, hosted by th
   title="ELLIS Coordinators Retreat 2025"
   text=text
 %}
+
+{% capture text %}
+
+As of March 2023 the Graz University of Technology (TU Graz) is the location of the ELLIS Unit Graz. We're excited to join the ELLIS network, consisting of now 39 units in 14 European countries.
+
+{%
+  include button.html
+  link="https://www.tugraz.at/en/news/article/tu-graz-schliesst-sich-ki-forschungsnetzwerk-ellis-an"
+  text="Read more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="TU Graz Joins AI Research Network ELLIS"
+  text=text
+%}
