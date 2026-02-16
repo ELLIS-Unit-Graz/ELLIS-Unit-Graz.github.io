@@ -9,8 +9,9 @@ Our **mission** is to develop an in-depth understanding of the contemporary ML s
 
 By combining rigorous scientific methodology with industrial and societal relevance, the unit drives innovations in AI technologies that are robust, interpretable, and impactful, reinforcing Europe’s machine learning leadership.
 
-Our researchers are located across the Graz University of Technology [(TU Graz)](https://www.tugraz.at/en/home). The Ellis Unit Graz has strong links with other scientific disciplines through the tight coupling with the Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) and collaborations with various industry partners.
+Our researchers are located across the Graz University of Technology [(TU Graz)](https://www.tugraz.at/en/home). The Ellis Unit Graz has strong links with other scientific disciplines through the tight coupling with the Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/), the involvement in the Cluster of Excellence [Bilateral AI](https://www.bilateral-ai.net/home) of the Austrian Science Fund, and collaborations with various industry partners.
 
+The ELLIS Unit Graz is also a member of [ELSA](https://elsa-ai.eu/) - the European Lighthouse on Secure and Safe AI.
 {%
   include figure.html
   image="images/ELLIS_Unit_Graz.png"
