@@ -66,7 +66,7 @@ This reading group examines the interplay between the **theoretical foundations 
 {%
   include button.html
   link="https://sites.google.com/view/efficientml"
-  text="More info and schedule"
+  text="More info, schedule, and recordings"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
