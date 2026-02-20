@@ -35,11 +35,11 @@ Novel hardware platforms, advanced sensing, and IoT integration support context-
 ## An Integrated Ecosystem
 
 Together, these research directions form a coherent ecosystem:
-•	Mathematical modeling and learning provide reliable foundations.
-•	Perception and autonomy enable machines to interpret and act in the world.
-•	Geometry, simulation, and rendering generate realistic digital environments.
-•	Visual analytics supports human understanding of complex data.
-•	Immersive interfaces connect humans, machines, and digital content.
+- Mathematical modeling and learning provide reliable foundations.
+- Perception and autonomy enable machines to interpret and act in the world.
+- Geometry, simulation, and rendering generate realistic digital environments.
+- Visual analytics supports human understanding of complex data.
+- Immersive interfaces connect humans, machines, and digital content.
 
 By integrating these components, visual computing advances intelligent systems that seamlessly bridge perception, reasoning, generation, and interaction - shaping the future of robotics, autonomous systems, immersive learning, digital manufacturing, and data-driven decision-making.
 
