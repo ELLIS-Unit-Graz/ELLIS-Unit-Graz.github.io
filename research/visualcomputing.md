@@ -48,6 +48,8 @@ By integrating these components, visual computing advances intelligent systems t
 
 {% include section.html %}
 
-For more information, ongoing projects, and news, see the [website of the IVC](https://ivc.tugraz.at/).
+For more information, ongoing projects, and news, see the [website of the Institute of Visual Computing (IVC)](https://ivc.tugraz.at/).
+
+{% include figure.html image="images/ivc_logo.png" width="400px" %} 
 
 Involved researchers: [Horst Bischof](https://ellis-unit-graz.github.io/members/horst-bischof.html), [Thomas Pock](https://ellis-unit-graz.github.io/members/thomas-pock.html)
