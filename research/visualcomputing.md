@@ -53,31 +53,3 @@ For more information, ongoing projects, and news, see the [website of the Instit
 {% include figure.html image="images/ivc_logo.png" width="400px" %} 
 
 Involved researchers: [Horst Bischof](https://ellis-unit-graz.github.io/members/horst-bischof.html), [Thomas Pock](https://ellis-unit-graz.github.io/members/thomas-pock.html)
-
-
-{% capture text %}
-
-Involved researchers: [Horst Bischof](https://ellis-unit-graz.github.io/members/horst-bischof.html), [Thomas Pock](https://ellis-unit-graz.github.io/members/thomas-pock.html). 
-
-For more information, ongoing projects, and news, see the website of the Institute of Visual Computing (IVC).
-
-{%
-  include button.html
-  link="https://ivc.tugraz.at/"
-  text="to IVC website"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/ivc_logo.png"
-  link="https://ivc.tugraz.at/"
-  title="Institute of Visual Computing"
-  flip=true
-  style="bare"
-  text=text
-%}
