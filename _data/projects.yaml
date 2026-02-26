@@ -21,3 +21,57 @@
   description: ELSA is a growing network of excellence that spearheads efforts in foundational safe and secure AI methodology research. ELSA builds on and extends the internationally recognized and excellently positioned ELLIS (European Laboratory for Learning and Intelligent Systems) network of excellence.
   repo: 
   tags:
+
+  - title: Brain-inspired Machine Learning
+  subtitle:
+  group: featured
+  image: images/1.png
+  link: research/braininspiredML
+  description: 
+  repo:
+  tags:
+
+- title: Resource-efficient Deep Learning
+  subtitle:
+  group: featured
+  image: images/2.png
+  link: research/resourceefficientDL
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+
+- title: Human-centred Computing
+  subtitle:
+  group: featured
+  image: images/3.png
+  link: research/humancentredcomputing
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+
+- title: Trustworthy AI
+  subtitle:
+  group: featured
+  image: images/4.png
+  link: research/trustworthyAI
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+
+- title: Visual Computing
+  subtitle:
+  group: featured
+  image: images/5.png
+  link: research/visualcomputing
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+
+- title: Probabilistic Machine Learning
+  subtitle:
+  group: featured
+  image: images/6.png
+  link: research/probabilisticML
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
