@@ -5,6 +5,8 @@
 
 The **ELLIS Unit Graz** at Graz University of Technology [(TU Graz)](https://www.tugraz.at/en/home)advances foundational machine learning research in the fields of Brain-inspired ML, Resource-efficient Deep Learning, Human-centred Computing, Trustworthy AI, Visual Computing, and Probabilistic ML. 
 
+{% include section.html %}
+
 ## Mission
 
 Our **mission** is to reinforce Europe's machine learning leadership by 
@@ -14,6 +16,8 @@ systems,
 across domains,
 - and driving innovation of robust, interpretable and impactful AI
 technologies.
+
+{% include section.html %}
 
 In our unit we focus on **talent development**, foster **interdisciplinary collaboration** through the tight coupling with our [partners](partners), and keep strong connections to industry for **industrial and societal relevance**. 
 
