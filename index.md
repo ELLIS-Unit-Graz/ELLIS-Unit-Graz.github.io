@@ -17,7 +17,7 @@ technologies.
 
 In our unit we focus on **talent development**, foster **interdisciplinary collaboration** through the tight coupling with our [partners](partners), and keep strong connections to industry for **industrial and societal relevance**. 
 
-
+{% include section.html %}
 
 {%
   include figure.html
