@@ -19,5 +19,5 @@ In our unit we focus on **talent development**, foster **interdisciplinary colla
 {%
   include figure.html
   image="images/ELLIS_Unit_Graz.png"
-  caption="The ELLIS Unit Graz"
+  caption="Researchers and research topics at the ELLIS Unit Graz"
 %}
