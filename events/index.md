@@ -36,7 +36,7 @@ The ELLIS Unit Graz is co-organizing a workshop at this years' **Austrian Sympos
 
 {% capture text %}
 
-This reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
+Our reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
 
 {%
   include button.html
@@ -83,8 +83,6 @@ The ELLIS Unit Graz is co-organized the **Dagstuhl Seminar 26102** entitled "Ten
   image="images/dagstuhl.jpg"
   link="https://www.dagstuhl.de/26102"
   title="Seminar: Tensor Factorizations Meet Probabilistic Circuits"
-  flip=true
-  style="bare"
   text=text
 %}
 
