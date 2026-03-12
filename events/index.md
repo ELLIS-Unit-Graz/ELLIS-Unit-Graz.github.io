@@ -13,7 +13,8 @@ nav:
 
 The ELLIS Unit Graz is co-organizing two workshops at this years' **Austrian Symposium on AI, Robotics and Vision (AIROV), April 13–15, 2026 in Leoben**. 
 One of our workshops is on [Current Trends and Future Potential: Spiking Neural Networks](https://airov.at/2026/workshop/SSNSys) and the second one is on [Physics-Informed Machine Learning and Hybrid Modelling](https://airov.at/2026/workshop/PhysicsML.html).
-If you are working on either of these topics, we would be delighted to receive your contribution. **Submission deadline: March 14, 2026**
+If you are working on either of these topics, we would be delighted to receive your contribution.
+**Submission deadline: March 14, 2026**
 
 {%
   include button.html
