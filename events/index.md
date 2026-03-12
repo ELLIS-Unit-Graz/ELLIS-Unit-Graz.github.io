@@ -28,7 +28,7 @@ If you are working on either of these topics, we would be delighted to receive y
 
 {%
   include feature.html
-  image="images/airovworkshop.png"
+  image="images/airov.png"
   link="https://airov.at/2026/"
   title="2 Workshops at AIROV2026"
   flip=true
