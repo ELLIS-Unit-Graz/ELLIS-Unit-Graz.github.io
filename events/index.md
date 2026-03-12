@@ -11,31 +11,6 @@ nav:
 
 {% capture text %}
 
-The ELLIS Unit Graz is co-organizing the **Dagstuhl Seminar 26102** entitled "Tensor Factorizations Meet Probabilistic Circuits", taking place from **March 01-06, 2026** at Schloss Dagstuhl in Wadern.
-
-{%
-  include button.html
-  link="https://www.dagstuhl.de/26102"
-  text="More info"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/dagstuhl.jpg"
-  link="https://www.dagstuhl.de/26102"
-  title="Seminar: Tensor Factorizations Meet Probabilistic Circuits"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
 The ELLIS Unit Graz is co-organizing a workshop at this years' **Austrian Symposium on AI, Robotics and Vision (AIROV), April 13–15, 2026 in Leoben**. If you are working on hybrid modelling, physics-informed learning, uncertainty quantification, or related methods, we would be delighted to receive your contribution. **Submission deadline: February 28, 2026**
 
 {%
@@ -87,6 +62,31 @@ This reading group examines the interplay between the **theoretical foundations 
 {% include section.html %}
 
 ## In the past
+
+{% capture text %}
+
+The ELLIS Unit Graz is co-organized the **Dagstuhl Seminar 26102** entitled "Tensor Factorizations Meet Probabilistic Circuits", which took place from **March 01-06, 2026** at Schloss Dagstuhl in Wadern.
+
+{%
+  include button.html
+  link="https://www.dagstuhl.de/26102"
+  text="More info"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/dagstuhl.jpg"
+  link="https://www.dagstuhl.de/26102"
+  title="Seminar: Tensor Factorizations Meet Probabilistic Circuits"
+  flip=true
+  style="bare"
+  text=text
+%}
 
 {% capture text %}
 
