@@ -6,7 +6,7 @@ title: Resource-efficient Deep Learning
 
 Resource-efficient machine learning focuses on developing models and training methods that achieve strong predictive performance while minimizing the use of computational, memory, energy, and data resources. As machine learning systems grow in scale and complexity, the cost of training and deploying models has increased substantially. Large models require extensive computational infrastructure and consume significant energy during training and inference. At the same time, many applications--such as mobile devices and embedded systems--operate under strict hardware and energy constraints. Resource-efficient machine learning addresses these challenges by designing algorithms and systems that maintain high performance while reducing resource consumption.
 
-Approaches:
+**Approaches:**
 - One important aspect of resource-efficient machine learning is the design of efficient model architectures. Instead of relying on increasingly large models, the goal is to develop architectures that achieve comparable accuracy with fewer parameters and computational operations. Techniques such as parameter sharing, sparse connections, and lightweight architectural building blocks can significantly reduce computational cost and memory footprint.
 
 - Another central approach is model compression, which reduces the size and complexity of trained models without substantially degrading accuracy. Common methods include pruning, quantization, low-rank approximations, and model folding. Pruning removes weights or neurons that contribute little to predictions, quantization reduces the numerical precision of parameters, and model folding merges similar neurons or channels by clustering their weights into shared representations.
