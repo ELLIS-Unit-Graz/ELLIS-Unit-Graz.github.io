@@ -68,7 +68,7 @@ Our reading group examines the interplay between the **theoretical foundations o
 
 {% capture text %}
 
-The ELLIS Unit Graz is co-organized the **Dagstuhl Seminar 26102** entitled "Tensor Factorizations Meet Probabilistic Circuits", which took place from **March 01-06, 2026** at Schloss Dagstuhl in Wadern.
+The ELLIS Unit Graz co-organized the **Dagstuhl Seminar 26102** entitled "Tensor Factorizations Meet Probabilistic Circuits", which took place from **March 01-06, 2026** at Schloss Dagstuhl in Wadern.
 
 {%
   include button.html
