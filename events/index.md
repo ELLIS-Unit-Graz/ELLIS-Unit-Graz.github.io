@@ -11,32 +11,6 @@ nav:
 
 {% capture text %}
 
-The ELLIS Unit Graz is co-organizing two workshops at this years' **Austrian Symposium on AI, Robotics and Vision (AIROV), April 13–15, 2026 in Leoben**. 
-One of our workshops is on [Current Trends and Future Potential: Spiking Neural Networks](https://airov.at/2026/workshop/SSNSys) and the second one is on [Physics-Informed Machine Learning and Hybrid Modelling](https://airov.at/2026/workshop/PhysicsML.html).
-
-{%
-  include button.html
-  link="https://airov.at/2026/"
-  text="More info about AIROV"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/airov.png"
-  link="https://airov.at/2026/"
-  title="2 Workshops at AIROV2026"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
 Our reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
 
 {%
@@ -63,6 +37,60 @@ Our reading group examines the interplay between the **theoretical foundations o
 {% include section.html %}
 
 ## In the past
+
+{% capture text %}
+
+The ELLIS Unit Graz co-organized the **StartUp InspirAItion Day at Graz University of Technology** on May 21, 2026. It was a morning full of honest entrepreneurial stories, practical insights, and inspiring conversations to spark the option of an AI entrepreneurship career path in our junior researchers.
+A huge thank you to Ralph Stöckl (SimplyAI FlexCo), Samuel Ziegler (vetosec), Lucija Veličan Marković, PhD (Ruth), and Dr. Michael Reip (openmaind) for sharing their experiences so openly and authentically and to Mario Fallast and Harald Jenull for guiding the discussion and enriching it with their own entrepreneurial wisdom.
+
+{%
+  include button.html
+  link="https://www.bilateral-ai.net/news-events"
+  text="Read more here"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/StartupDay.jpg"
+  link="https://www.bilateral-ai.net/news-events"
+  title="Startup InspirAItion Day"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+The ELLIS Unit Graz co-organized two workshops at the **Austrian Symposium on AI, Robotics and Vision (AIROV), April 13–15, 2026 in Leoben**. 
+One of our workshops was on [Current Trends and Future Potential: Spiking Neural Networks](https://airov.at/2026/workshop/SSNSys) and the second one on [Physics-Informed Machine Learning and Hybrid Modelling](https://airov.at/2026/workshop/PhysicsML.html).
+
+{%
+  include button.html
+  link="https://airov.at/2026/"
+  text="More info about AIROV"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/airov.png"
+  link="https://airov.at/2026/"
+  title="2 Workshops at AIROV2026"
+  flip=true
+  style="bare"
+  text=text
+%}
+
 
 {% capture text %}
 
