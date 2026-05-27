@@ -59,7 +59,6 @@ A huge thank you to Ralph Stöckl (SimplyAI FlexCo), Samuel Ziegler (vetosec), L
   image="images/StartupDay.jpg"
   link="https://www.bilateral-ai.net/news-events"
   title="Startup InspirAItion Day"
-  flip=true
   style="bare"
   text=text
 %}
@@ -86,7 +85,6 @@ One of our workshops was on [Current Trends and Future Potential: Spiking Neural
   image="images/airov.png"
   link="https://airov.at/2026/"
   title="2 Workshops at AIROV2026"
-  flip=true
   style="bare"
   text=text
 %}
