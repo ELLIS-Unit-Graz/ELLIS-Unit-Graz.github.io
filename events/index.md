@@ -71,7 +71,7 @@ A huge thank you to Ralph Stöckl (SimplyAI FlexCo), Samuel Ziegler (vetosec), L
 
 {%
   include button.html
-  link="https://www.bilateral-ai.net/news-events"
+  link="https://www.bilateral-ai.net/news-events/article/bilateral-ai-at-the-startup-inspiraition-day-real-founding-stories-practical-insights-and-conversations-that-matter"
   text="Read more here"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -83,7 +83,7 @@ A huge thank you to Ralph Stöckl (SimplyAI FlexCo), Samuel Ziegler (vetosec), L
 {%
   include feature.html
   image="images/StartupDay.jpg"
-  link="https://www.bilateral-ai.net/news-events"
+  link="https://www.bilateral-ai.net/news-events/article/bilateral-ai-at-the-startup-inspiraition-day-real-founding-stories-practical-insights-and-conversations-that-matter"
   title="Startup InspirAItion Day"
   style="bare"
   text=text

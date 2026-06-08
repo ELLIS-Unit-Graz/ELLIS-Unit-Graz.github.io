@@ -13,7 +13,7 @@ Everyone in our community is welcome to present a poster. All kind of posters th
 Time: June 17, 2026, 10:30-12:30
 Place: Inffeldgasse 16 b, Foyer Ground Floor
 
-Please register here: https://cloud.tugraz.at/index.php/apps/forms/s/f2Gz83nYH88RH74SNxSn2xGn  
+Please register [here](https://cloud.tugraz.at/index.php/apps/forms/s/f2Gz83nYH88RH74SNxSn2xGn).  
 Registration Deadline for Posters is on June 10th.
 
 This event is part of the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate](https://ellis.eu/events/ellis-sites-icml-fest-2026).
