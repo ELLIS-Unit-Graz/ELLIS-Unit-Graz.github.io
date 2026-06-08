@@ -10,8 +10,8 @@ The Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research
 
 Everyone in our community is welcome to present a poster. All kind of posters that showcase your recent work are welcome. You can reuse posters from recent venues or practice posters for upcoming events (e.g. ICML, KR, etc..).
 
-Time: June 17, 2026, 10:30-12:30
-Place: Inffeldgasse 16 b, Foyer Ground Floor
+- Time: June 17, 2026, 10:30-12:30
+- Place: Inffeldgasse 16 b, Foyer Ground Floor
 
 Please register [here](https://cloud.tugraz.at/index.php/apps/forms/s/f2Gz83nYH88RH74SNxSn2xGn).  
 Registration Deadline for Posters is on June 10th.
