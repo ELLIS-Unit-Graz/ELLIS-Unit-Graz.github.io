@@ -6,7 +6,7 @@ redirect_from:
 
 # Poster Session GraML & ELLIS Unit Graz
 
-The Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) and the ELLIS Unit Graz are hosting a Poster session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
+The Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) and the ELLIS Unit Graz are hosting a Poster Session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
 
 Everyone in our community is welcome to present a poster. All kind of posters that showcase your recent work are welcome. You can reuse posters from recent venues or practice posters for upcoming events (e.g. ICML, KR, etc..).
 
