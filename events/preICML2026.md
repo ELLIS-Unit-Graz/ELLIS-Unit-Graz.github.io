@@ -6,17 +6,25 @@ redirect_from:
 
 # Poster Session GraML & ELLIS Unit Graz
 
-The Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) and the ELLIS Unit Graz are hosting a Poster Session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
+On June 17, 2026, we participated in the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate](https://ellis.eu/events/ellis-sites-icml-fest-2026). Together with the Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) we hosted a Poster Session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
 
-Everyone in our community is welcome to present a poster. All kind of posters that showcase your recent work are welcome. You can reuse posters from recent venues or practice posters for upcoming events (e.g. ICML, KR, etc..).
+Poster contributions included work that is presented at e.g., ICML 2026, ICLR 2026, AIROV 2026, RecSys 2025, and CPAL 2025. For a list of titles and abstracts, see below. 
 
-- Time: June 17, 2026, 10:30-12:30
-- Place: Inffeldgasse 16 b, Foyer Ground Floor
+A huge thank you to everyone who presented their work, asked thought-provoking questions, and contributed to making this event such a success. We are already looking forward to the next one!
 
-Please register [here](https://cloud.tugraz.at/index.php/apps/forms/s/f2Gz83nYH88RH74SNxSn2xGn).  
-Registration Deadline for Posters is on June 10th.
+{% include figure.html image="images/postersession1.jpg" width="400px" %}
+{% include figure.html image="images/postersession2.jpg" width="400px" %}
+{% include figure.html image="images/postersession4.jpg" width="400px" %}
+© Goertz
 
-This event is part of the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate](https://ellis.eu/events/ellis-sites-icml-fest-2026).
+# Posters
+**Authors**|**Title**|**Venue**
+:--------|:-----------|:-------
+O. Saukh, D. Wang, H. Šikić, Y. Cheng, L. Thiele | Cut Less, Fold More: Model Compression through the Lens of Projection Geometry | ICLR 2026
+Lukas Wimmer, Andre Koczka, Uros Petrovic, Gerald Steinbauer-Wagner | Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation | ICRA 2026 - Field Robotics Workshop
+Georg Vogeler, Dominik Kowald | A Multistakeholder Approach to Value-Driven Co-Design of Recommender Systems Evaluation Metrics in Digital Archives | RecSys 2025
+Markus Reiter-Haas, Elisabeth Lex | Neuro-symbolic Interpretable Recommender Systems | Human-Centred Computing Day, Austrian Computer Science Day
 
-{% include figure.html image="images/postersession.jpg" width="400px" %}
-© Lunghammer
+Michael Obermayr, Robert Peharz | Joint Bayesian Inference on Lagrangian Physics and Trajectories | AIROV 2026
+     |  | 
+      |  | 
