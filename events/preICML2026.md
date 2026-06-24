@@ -6,17 +6,17 @@ redirect_from:
 
 # Poster Session GraML & ELLIS Unit Graz
 
+{% include figure.html image="images/postersession.jpg" width="400px" %}
+
 On June 17, 2026, we participated in the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate](https://ellis.eu/events/ellis-sites-icml-fest-2026). Together with the Graz Center for Machine Learning [(GraML)](https://www.tugraz.at/en/research/research-at-tu-graz/research-centers/graz-center-for-machine-learning/) we hosted a Poster Session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
 
 Poster contributions included work that was or will be presented at e.g., ICML 2026, ICLR 2026, AIROV 2026, RecSys 2025, and CPAL 2025. For a list of titles, see below. 
 
 A huge thank you to everyone who presented their work, asked thought-provoking questions, and contributed to making this event such a success. We are already looking forward to the next one!
 
-{% include figure.html image="images/postersession.jpg" width="400px" %}
-
 # Posters
 
-**Authors**|**Title**|**Venue** 
+ **Authors**|**Title**|**Venue** 
 :--------|:-----------|:----------- 
 Alexander Mayr, Robert Legenstein | Extending the Computational Capabilities of SSMs Using Recurrent Layers| -  
 Andre Koczka, Lukas Wimmer, Andre Koczka, Uros Petrovic, Gerald Steinbauer-Wagner | Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation| ICRA 2026 - Field Robotics Workshop 
