@@ -26,6 +26,7 @@ Eduardo Veas, Ammaar Zaman, Oliver Prentner, Viksit Singh, Julian Kravanja, Laur
 Florian Atzenhofer-Baumgartner, Georg Vogeler, Dominik Kowald | A Multistakeholder Approach to Value-Driven Co-Design of Recommender Systems Evaluation Metrics in Digital Archives | RecSys 2025 
 Georg Niess, Roman Kern| SpanDiffusion: Flow Matching over Continuous Span Masks for Financial Causal Question Answering | Language Resources and Evaluation Conference 2026 
 Gianluca Guglielmo, Marc Masana, Thomas Pock | Ranked Activation Shift for Post-Hoc Out-of-Distribution Detection |-  
+Hanne Say Eren, Ozan Özdeniczi | Object-Centric DLGNs for Abstract Visual Reasoning | - 
 Jeremy Chan Ho Tung, Eduardo Veas | Feature Importance Estimate via Embedded Neural Network Extension | IEEE Systems, Man and Cybernetics 
 Julian Gutheil, Simon Hitzginger, Robert Legenstein | Winner-Take-All bottlenecks enforce disentangled symbolic representations in multi-task learning | -  
 Kevin Innerebner, Markus Reiter-Haas, Elisabeth Lex | Neuro-symbolic Interpretable Recommender Systems | Human-Centred Computing Day, Austrian Computer Science Day 
@@ -41,8 +42,16 @@ Wenwu Tang | GRAIL: Post-hoc Compensation by Linear Reconstruction for Compresse
 Yeganeh Bahariasl, Simon Hitzginger, Robert Legenstein | Scalable semi-online training of recurrent spiking and artificial neural networks with chunk-wise truncated backpropagation | - 
 
 # Pictures
-
+© Goertz
 {% include figure.html image="images/Postersession2026/postersession1.jpg" width="400px" %}
 {% include figure.html image="images/Postersession2026/postersession2.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession3.jpg" width="400px" %}
 {% include figure.html image="images/Postersession2026/postersession4.jpg" width="400px" %}
-© Goertz
+{% include figure.html image="images/Postersession2026/postersession5.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession6.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession7.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession8.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession9.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession10.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession11.jpg" width="400px" %}
+{% include figure.html image="images/Postersession2026/postersession12.jpg" width="400px" %}
