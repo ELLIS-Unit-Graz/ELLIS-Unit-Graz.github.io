@@ -24,7 +24,6 @@ O. Saukh, D. Wang, H. Šikić, Y. Cheng, L. Thiele | Cut Less, Fold More: Model 
 Lukas Wimmer, Andre Koczka, Uros Petrovic, Gerald Steinbauer-Wagner | Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation | ICRA 2026 - Field Robotics Workshop
 Georg Vogeler, Dominik Kowald | A Multistakeholder Approach to Value-Driven Co-Design of Recommender Systems Evaluation Metrics in Digital Archives | RecSys 2025
 Markus Reiter-Haas, Elisabeth Lex | Neuro-symbolic Interpretable Recommender Systems | Human-Centred Computing Day, Austrian Computer Science Day
-
 Michael Obermayr, Robert Peharz | Joint Bayesian Inference on Lagrangian Physics and Trajectories | AIROV 2026
      |  | 
       |  | 
