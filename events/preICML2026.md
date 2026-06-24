@@ -15,6 +15,7 @@ A huge thank you to everyone who presented their work, asked thought-provoking q
 {% include figure.html image="images/postersession.jpg" width="400px" %}
 
 # Posters
+
   **Authors** | **Title** | **Venue** |
  |:-----------|:----------|:----------|
  | Alexander Mayr, Robert Legenstein | Extending the Computational Capabilities of SSMs Using Recurrent Layers | - |
