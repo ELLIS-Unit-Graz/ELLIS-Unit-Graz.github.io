@@ -15,27 +15,26 @@ A huge thank you to everyone who presented their work, asked thought-provoking q
 # Posters
 **Authors**|**Title**|**Venue**
 :--------|:-----------|:--------
-
 Alexander Mayr, Robert Legenstein | Extending the Computational Capabilities of SSMs Using Recurrent Layers	| - 
 Andre Koczka, Lukas Wimmer, Andre Koczka, Uros Petrovic, Gerald Steinbauer-Wagner | Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation	| ICRA 2026 - Field Robotics Workshop
 Benedikt Tscheschner, Eduardo Veas, Marc Masana | One Loop, Two Gains: Can Active Learning win the Lottery for Free? | Conference on Lifelong Learning Agents 2026
 Dong Wang | FOSL: A Foldable Sparse-and-Low-Rank Method for Efficient LLM Pre-training | ICLR and CPAL
-Eduardo Veas, Ammaar Zaman, Oliver Prentner, Viksit Singh, Julian Kravanja, Laurenz Fussenegger, Patrick Hanfstringl	|	Embodied AI and Robot Learning	|	
-Florian Atzenhofer-Baumgartner, Georg Vogeler, Dominik Kowald	|	A Multistakeholder Approach to Value-Driven Co-Design of Recommender Systems Evaluation Metrics in Digital Archives	|	RecSys 2025
-Georg Niess, Roman Kern	|	SpanDiffusion: Flow Matching over Continuous Span Masks for Financial Causal Question Answering	|	Language Resources and Evaluation Conference 2026
-Gianluca Guglielmo, Marc Masana, Thomas Pock	|	Ranked Activation Shift for Post-Hoc Out-of-Distribution Detection	|	
-Jeremy Chan Ho Tung, Eduardo Veas	|	Feature Importance Estimate via Embedded Neural Network Extension	|	IEEE Systems, Man and Cybernetics
-Julian Gutheil, Simon Hitzginger, Robert Legenstein	|	Winner-Take-All bottlenecks enforce disentangled symbolic representations in multi-task learning	|	
-Kevin Innerebner, Markus Reiter-Haas, Elisabeth Lex	|	Neuro-symbolic Interpretable Recommender Systems	|	Human-Centred Computing Day, Austrian Computer Science Day
-Maximilian Toller	|	Open Challenges in Machine Learning: Discontinuity, Scale Invariance, and Diverging Moments 	|	
-Michael Obermayr, Robert Peharz	|	Joint Bayesian Inference on Lagrangian Physics and Trajectories	|	AIROV 2026
-Nikolaus Kopp, Fynn Gerding, Franz Pernkopf, Bernhard Geiger	|	Information-Theoretic Analysis of Neural Networks	|	
-O. Saukh, D. Wang, H. Šikić, Y. Cheng, L. Thiele	|	Cut Less, Fold More: Model Compression through the Lens of Projection Geometry	|	ICLR 2026
-Ozan Özdenizci	|	Privacy-Aware Lifelong Learning	|	ICLR 2025
-Ozan Özdenizci	|	Adversarially Robust Spiking Neural Networks with Sparse Connectivity	|	CPAL 2025
-Patrick Krumpl, Francesco Corti, Dong Wang, Olga Saukh	|	Deploying TinyML on Commercial Smart Glasses	|	To be submitted
-Paul Horvath, Marian Staggl, Stefan Posch	|	Derivative-Enhanced Training for Data-efficient Surrogate Modeling	|	AIROV 2026
-Wenwu Tang	|	GRAIL: Post-hoc Compensation by Linear Reconstruction for Compressed Networks	|	Conference on Parsimony and Learning (CPAL)
+Eduardo Veas, Ammaar Zaman, Oliver Prentner, Viksit Singh, Julian Kravanja, Laurenz Fussenegger, Patrick Hanfstringl | Embodied AI and Robot Learning | -
+Florian Atzenhofer-Baumgartner, Georg Vogeler, Dominik Kowald | A Multistakeholder Approach to Value-Driven Co-Design of Recommender Systems Evaluation Metrics in Digital Archives | RecSys 2025
+Georg Niess, Roman Kern	| SpanDiffusion: Flow Matching over Continuous Span Masks for Financial Causal Question Answering | Language Resources and Evaluation Conference 2026
+Gianluca Guglielmo, Marc Masana, Thomas Pock | Ranked Activation Shift for Post-Hoc Out-of-Distribution Detection |	- 
+Jeremy Chan Ho Tung, Eduardo Veas | Feature Importance Estimate via Embedded Neural Network Extension | IEEE Systems, Man and Cybernetics
+Julian Gutheil, Simon Hitzginger, Robert Legenstein | Winner-Take-All bottlenecks enforce disentangled symbolic representations in multi-task learning | - 
+Kevin Innerebner, Markus Reiter-Haas, Elisabeth Lex | Neuro-symbolic Interpretable Recommender Systems | Human-Centred Computing Day, Austrian Computer Science Day
+Maximilian Toller | Open Challenges in Machine Learning: Discontinuity, Scale Invariance, and Diverging Moments | -
+Michael Obermayr, Robert Peharz | Joint Bayesian Inference on Lagrangian Physics and Trajectories | AIROV 2026
+Nikolaus Kopp, Fynn Gerding, Franz Pernkopf, Bernhard Geiger | Information-Theoretic Analysis of Neural Networks | -
+O. Saukh, D. Wang, H. Šikić, Y. Cheng, L. Thiele | Cut Less, Fold More: Model Compression through the Lens of Projection Geometry | ICLR 2026
+Ozan Özdenizci | Privacy-Aware Lifelong Learning | ICLR 2025
+Ozan Özdenizci | Adversarially Robust Spiking Neural Networks with Sparse Connectivity | CPAL 2025
+Patrick Krumpl, Francesco Corti, Dong Wang, Olga Saukh | Deploying TinyML on Commercial Smart Glasses |	To be submitted
+Paul Horvath, Marian Staggl, Stefan Posch |	Derivative-Enhanced Training for Data-efficient Surrogate Modeling | AIROV 2026
+Wenwu Tang | GRAIL: Post-hoc Compensation by Linear Reconstruction for Compressed Networks | Conference on Parsimony and Learning (CPAL)
 
 # Pictures
 
