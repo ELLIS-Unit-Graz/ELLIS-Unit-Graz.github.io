@@ -31,7 +31,8 @@ Julian Gutheil, Simon Hitzginger, Robert Legenstein | Winner-Take-All bottleneck
 Kevin Innerebner, Markus Reiter-Haas, Elisabeth Lex | Neuro-symbolic Interpretable Recommender Systems | Human-Centred Computing Day, Austrian Computer Science Day 
 Maximilian Toller | Open Challenges in Machine Learning: Discontinuity, Scale Invariance, and Diverging Moments | - 
 Michael Obermayr, Robert Peharz | Joint Bayesian Inference on Lagrangian Physics and Trajectories | AIROV 2026 
-Nikolaus Kopp, Fynn Gerding, Franz Pernkopf, Bernhard Geiger | Information-Theoretic Analysis of Neural Networks | - O. Saukh, D. Wang, H. Šikić, Y. Cheng, L. Thiele | Cut Less, Fold More: Model Compression through the Lens of Projection Geometry | ICLR 2026 
+Nikolaus Kopp, Fynn Gerding, Franz Pernkopf, Bernhard Geiger | Information-Theoretic Analysis of Neural Networks | - 
+O. Saukh, D. Wang, H. Šikić, Y. Cheng, L. Thiele | Cut Less, Fold More: Model Compression through the Lens of Projection Geometry | ICLR 2026 
 Ozan Özdenizci | Privacy-Aware Lifelong Learning | ICLR 2025 
 Ozan Özdenizci | Adversarially Robust Spiking Neural Networks with Sparse Connectivity | CPAL 2025 
 Patrick Krumpl, Francesco Corti, Dong Wang, Olga Saukh | Deploying TinyML on Commercial Smart Glasses |To be submitted 
