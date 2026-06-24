@@ -12,6 +12,8 @@ Poster contributions included work that was or will be presented at e.g., ICML 2
 
 A huge thank you to everyone who presented their work, asked thought-provoking questions, and contributed to making this event such a success. We are already looking forward to the next one!
 
+{% include figure.html image="images/postersession.jpg" width="400px" %}
+
 # Posters
 **Authors**|**Title**|**Venue**
 :--------|:-----------|:-----------
