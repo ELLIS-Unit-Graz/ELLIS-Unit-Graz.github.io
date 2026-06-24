@@ -39,7 +39,7 @@ Ozan Özdenizci | Adversarially Robust Spiking Neural Networks with Sparse Conne
 Patrick Krumpl, Francesco Corti, Dong Wang, Olga Saukh | Deploying TinyML on Commercial Smart Glasses |To be submitted 
 Paul Horvath, Marian Staggl, Stefan Posch |Derivative-Enhanced Training for Data-efficient Surrogate Modeling | AIROV 2026 
 Wenwu Tang | GRAIL: Post-hoc Compensation by Linear Reconstruction for Compressed Networks | Conference on Parsimony and Learning (CPAL)
-Yeganeh Bahariasl, Simon Hitzginger, Robert Legenstein | Scalable semi-online training of recurrent spiking and artificial neural networks with chunk-wise truncated backpropagation | - 
+Yeganeh Bahariasl, Simon Hitzginger, Robert Legenstein | Scalable semi-online training of recurrent spiking and artificial neural networks with chunk-wise truncated backpropagation | ICNCE 2026 
 
 # Pictures
 © Goertz
