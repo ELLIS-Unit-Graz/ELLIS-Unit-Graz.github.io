@@ -15,6 +15,7 @@ A huge thank you to everyone who presented their work, asked thought-provoking q
 # Posters
 **Authors**|**Title**|**Venue**
 :--------|:-----------|:--------
+
 Alexander Mayr, Robert Legenstein	|	Extending the Computational Capabilities of SSMs Using Recurrent Layers	|	
 Andre Koczka, Lukas Wimmer, Andre Koczka, Uros Petrovic, Gerald Steinbauer-Wagner	|	Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation	|	ICRA 2026 - Field Robotics Workshop
 Benedikt Tscheschner, Eduardo Veas, Marc Masana	|	One Loop, Two Gains: Can Active Learning win the Lottery for Free?	|	Conference on Lifelong Learning Agents 2026
@@ -35,6 +36,7 @@ Ozan Özdenizci	|	Adversarially Robust Spiking Neural Networks with Sparse Conne
 Patrick Krumpl, Francesco Corti, Dong Wang, Olga Saukh	|	Deploying TinyML on Commercial Smart Glasses	|	To be submitted
 Paul Horvath, Marian Staggl, Stefan Posch	|	Derivative-Enhanced Training for Data-efficient Surrogate Modeling	|	AIROV 2026
 Wenwu Tang	|	GRAIL: Post-hoc Compensation by Linear Reconstruction for Compressed Networks	|	Conference on Parsimony and Learning (CPAL)
+
 
 {% include figure.html image="images/Postersession2026/postersession1.jpg" width="400px" %}
 {% include figure.html image="images/Postersession2026/postersession2.jpg" width="400px" %}
