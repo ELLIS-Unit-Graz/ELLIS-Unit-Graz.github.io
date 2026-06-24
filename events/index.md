@@ -11,32 +11,6 @@ nav:
 
 {% capture text %}
 
-On June 17, GraML and the ELLIS Unit Graz are hosting a Poster Session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
-This event is part of the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate](https://ellis.eu/events/ellis-sites-icml-fest-2026).
-
-{%
-  include button.html
-  link="events/preICML2026"
-  text="More info and registration"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/postersession.jpg"
-  link="events/preICML2026"
-  title="Poster Session ELLIS Unit Graz & GraML"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
 Our reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
 
 {%
@@ -63,6 +37,31 @@ Our reading group examines the interplay between the **theoretical foundations o
 {% include section.html %}
 
 ## In the past
+
+{% capture text %}
+
+On June 17, GraML and the ELLIS Unit Graz hosted a Poster Session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
+This event was part of the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate](https://ellis.eu/events/ellis-sites-icml-fest-2026).
+
+{%
+  include button.html
+  link="events/preICML2026"
+  text="More info"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/postersession.jpg"
+  link="events/preICML2026"
+  title="Poster Session ELLIS Unit Graz & GraML"
+  style="bare"
+  text=text
+%}
 
 {% capture text %}
 
