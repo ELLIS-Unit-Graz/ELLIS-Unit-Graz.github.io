@@ -16,10 +16,10 @@ A huge thank you to everyone who presented their work, asked thought-provoking q
 **Authors**|**Title**|**Venue**
 :--------|:-----------|:--------
 
-Alexander Mayr, Robert Legenstein	|	Extending the Computational Capabilities of SSMs Using Recurrent Layers	|	
-Andre Koczka, Lukas Wimmer, Andre Koczka, Uros Petrovic, Gerald Steinbauer-Wagner	|	Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation	|	ICRA 2026 - Field Robotics Workshop
-Benedikt Tscheschner, Eduardo Veas, Marc Masana	|	One Loop, Two Gains: Can Active Learning win the Lottery for Free?	|	Conference on Lifelong Learning Agents 2026
-Dong Wang	|	FOSL: A Foldable Sparse-and-Low-Rank Method for Efficient LLM Pre-training	|	ICLR and CPAL
+Alexander Mayr, Robert Legenstein | Extending the Computational Capabilities of SSMs Using Recurrent Layers	| - 
+Andre Koczka, Lukas Wimmer, Andre Koczka, Uros Petrovic, Gerald Steinbauer-Wagner | Overcoming Nature: Perception for Autonomous Navigation in Dense Vegetation	| ICRA 2026 - Field Robotics Workshop
+Benedikt Tscheschner, Eduardo Veas, Marc Masana | One Loop, Two Gains: Can Active Learning win the Lottery for Free? | Conference on Lifelong Learning Agents 2026
+Dong Wang | FOSL: A Foldable Sparse-and-Low-Rank Method for Efficient LLM Pre-training | ICLR and CPAL
 Eduardo Veas, Ammaar Zaman, Oliver Prentner, Viksit Singh, Julian Kravanja, Laurenz Fussenegger, Patrick Hanfstringl	|	Embodied AI and Robot Learning	|	
 Florian Atzenhofer-Baumgartner, Georg Vogeler, Dominik Kowald	|	A Multistakeholder Approach to Value-Driven Co-Design of Recommender Systems Evaluation Metrics in Digital Archives	|	RecSys 2025
 Georg Niess, Roman Kern	|	SpanDiffusion: Flow Matching over Continuous Span Masks for Financial Causal Question Answering	|	Language Resources and Evaluation Conference 2026
@@ -37,6 +37,7 @@ Patrick Krumpl, Francesco Corti, Dong Wang, Olga Saukh	|	Deploying TinyML on Com
 Paul Horvath, Marian Staggl, Stefan Posch	|	Derivative-Enhanced Training for Data-efficient Surrogate Modeling	|	AIROV 2026
 Wenwu Tang	|	GRAIL: Post-hoc Compensation by Linear Reconstruction for Compressed Networks	|	Conference on Parsimony and Learning (CPAL)
 
+# Pictures
 
 {% include figure.html image="images/Postersession2026/postersession1.jpg" width="400px" %}
 {% include figure.html image="images/Postersession2026/postersession2.jpg" width="400px" %}
