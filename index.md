@@ -17,7 +17,7 @@ In our unit we focus on **talent development**, foster **interdisciplinary colla
 
 The ELLIS Unit Graz is a member of the [ELSA Network](https://elsa-ai.eu/) and the [ELIAS Virtual Centre of Excellence](https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/).
 
-Read more about our Unit here: [Discover the Site series: ELLIS Unit Graz](https://ellis.eu/news/ellis-unit-graz-brain-inspired-to-trustworthy-ai).
+Explore this website or read more about our unit here: [Discover the Site series: ELLIS Unit Graz](https://ellis.eu/news/ellis-unit-graz-brain-inspired-to-trustworthy-ai).
 
 {% include section.html %}
 {%
