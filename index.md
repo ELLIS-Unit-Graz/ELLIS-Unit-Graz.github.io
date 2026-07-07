@@ -13,10 +13,15 @@ across domains,
 - and **driving innovation** of robust, interpretable and impactful AI
 technologies.
 
-In our unit we focus on **talent development**, foster **interdisciplinary collaboration** through the tight coupling with our [partners](partners), and keep strong connections to industry for **industrial and societal relevance**. 
+In our unit we focus on **talent development**, foster **interdisciplinary collaboration** through the tight coupling with our [partners](partners), and keep strong connections to industry for **industrial and societal relevance**.
+
+Read more about our Unit here: [Discover the Site series: ELLIS Unit Graz](https://ellis.eu/news/ellis-unit-graz-brain-inspired-to-trustworthy-ai).
+
+
 {% include section.html %}
 {%
   include figure.html
   image="images/ELLIS_Unit_Graz.png"
   caption="Researchers and research topics at the ELLIS Unit Graz"
 %}
+
