@@ -122,8 +122,8 @@ One of our workshops was on [Current Trends and Future Potential: Spiking Neural
 
 {%
   include button.html
-  link="https://airov.at/2026/"
-  text="More info about AIROV"
+  link="events/workshopsairov2026"
+  text="Recap"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -134,7 +134,7 @@ One of our workshops was on [Current Trends and Future Potential: Spiking Neural
 {%
   include feature.html
   image="images/airov.png"
-  link="https://airov.at/2026/"
+  link="events/workshopsairov2026"
   title="2 Workshops at AIROV2026"
   style="bare"
   text=text
