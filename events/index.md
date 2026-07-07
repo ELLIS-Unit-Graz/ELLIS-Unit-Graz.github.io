@@ -11,6 +11,32 @@ nav:
 
 {% capture text %}
 
+**News:** As of July 2026, the ELLIS Unit Graz is an official member of the ELIAS Virtual Centre of Excellence. The European Lighthouse of AI for Systainability (ELIAS) connects researchers in academia with practitioners in the industry to differentiate Europe as a region where AI research builds towards a sustainable long-term future for our planet, contributes to a cohesive society, and respects individual preferences and rights.
+
+{%
+  include button.html
+  link="https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/"
+  text="More information"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/elias_add.png"
+  link="https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/"
+  title="Member of the ELIAS Virtual Centre of Excellence"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
 Our reading group examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
 
 {%
