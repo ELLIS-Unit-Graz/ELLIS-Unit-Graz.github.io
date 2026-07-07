@@ -123,7 +123,7 @@ One of our workshops was on [Current Trends and Future Potential: Spiking Neural
 {%
   include button.html
   link="events/workshopsairov2026"
-  text="Recap"
+  text="More info and pictures"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
