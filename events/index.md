@@ -229,7 +229,7 @@ and extends the internationally recognized and excellently positioned ELLIS (Eur
 
 {%
   include feature.html
-  image="images/elias_add.png"
+  image="images/ELSAexpansion.jpeg"
   link="https://elsa-ai.eu/elsa-welcomes-fifteen-new-members-to-its-network/"
   title="New Member of the ELSA Network"
   flip=false
