@@ -19,7 +19,6 @@ The ELLIS Unit Graz is a member of the [ELSA Network](https://elsa-ai.eu/) and t
 
 Read more about our Unit here: [Discover the Site series: ELLIS Unit Graz](https://ellis.eu/news/ellis-unit-graz-brain-inspired-to-trustworthy-ai).
 
-
 {% include section.html %}
 {%
   include figure.html
