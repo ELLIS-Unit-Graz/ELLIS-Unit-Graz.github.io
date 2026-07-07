@@ -15,6 +15,8 @@ technologies.
 
 In our unit we focus on **talent development**, foster **interdisciplinary collaboration** through the tight coupling with our [partners](partners), and keep strong connections to industry for **industrial and societal relevance**.
 
+The ELLIS Unit Graz is a member of the [ELSA Network](https://elsa-ai.eu/) and of [ELIAS Virtual Centre of Excellence](https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/).
+
 Read more about our Unit here: [Discover the Site series: ELLIS Unit Graz](https://ellis.eu/news/ellis-unit-graz-brain-inspired-to-trustworthy-ai).
 
 
