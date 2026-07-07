@@ -14,11 +14,19 @@
   repo: 
   tags:
 
-- title: ELSA 
+- title: ELSA
   subtitle: European Lighthouse on Secure and Safe AI
   image: images/ELSA.png
   link: https://elsa-ai.eu/
   description: ELSA is a growing network of excellence that spearheads efforts in foundational safe and secure AI methodology research. ELSA builds on and extends the internationally recognized and excellently positioned ELLIS (European Laboratory for Learning and Intelligent Systems) network of excellence.
+  repo: 
+  tags:
+
+- title: ELIAS
+  subtitle: European Lighthouse of AI for Sustainability
+  image: images/elias-logo.png
+  link: https://elias-ai.eu/
+  description: ELIAS is a Network of Excellence connecting researchers in academia with practitioners in the industry to differentiate Europe as a region where AI research builds towards a sustainable long-term future for our planet, contributes to a cohesive society, and respects individual preferences and rights.
   repo: 
   tags:
 
