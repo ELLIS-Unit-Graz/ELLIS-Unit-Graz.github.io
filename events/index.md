@@ -211,6 +211,36 @@ We attended the ELLIS coordinator's retreat from **October 6-8, 2025**, hosted b
 
 {% capture text %}
 
+
+
+**News:** As of September 2025, the ELLIS Unit Graz is an official member of the [ELSA Network](https://elsa-ai.eu/): the European Lighthouse on Secure and Safe AI. ELSA is a growing network of excellence that spearheads efforts in foundational safe and secure AI methodology research. ELSA builds on
+and extends the internationally recognized and excellently positioned ELLIS (European Laboratory for Learning and Intelligent Systems) network of excellence. 
+
+{%
+  include button.html
+  link="https://elsa-ai.eu/elsa-welcomes-fifteen-new-members-to-its-network/"
+  text="More information"
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/elias_add.png"
+  link="https://elsa-ai.eu/elsa-welcomes-fifteen-new-members-to-its-network/"
+  title="New Member of the ELSA Network"
+  flip=false
+  style="bare"
+  text=text
+%}
+
+
+
+{% capture text %}
+
 As of **March 2023** the Graz University of Technology (TU Graz) is the location of the ELLIS Unit Graz. We're excited to join the ELLIS network, consisting of now 39 units in 14 European countries.
 
 {%
