@@ -37,7 +37,7 @@ nav:
 
 {% capture text %}
 
-Our reading group, in collaboration with the [ELLIS Unit NRW](https://ellis.eu/research/sites/unit-nrw) examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
+Our reading group, in collaboration with the [ELLIS Unit NRW](https://ellis.eu/research/sites/unit-nrw), examines the interplay between the **theoretical foundations of deep learning** and the **practical challenge of making machine learning efficient**. Open to researchers at all levels, it offers a platform for open dialog and discussions about fresh research findings. Approx. every other **Monday @ 5pm CET** / 11am EST / 8am PST
 
 {%
   include button.html
