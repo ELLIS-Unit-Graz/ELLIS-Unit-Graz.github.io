@@ -12,7 +12,7 @@ links:
   orcid: 0000-0001-7849-3368
 ---
 
-Olga Saukh is Associate Professor at the [Institute of Technical Informatics](https://www.tugraz.at/institute/hcc/home) and group leader of the lab [Embedded Learning and Sensing Systems](https://www.tugraz.at/arbeitsgruppen/iti-teams/elss/team-contact).
+Olga Saukh is Associate Professor at the [Institute of Technical Informatics](https://www.tugraz.at/en/institutes/iti/home) and group leader of the lab [Embedded Learning and Sensing Systems](https://www.tugraz.at/arbeitsgruppen/iti-teams/elss/team-contact).
 
 Her research focuses on: 
 - Embedded Machine Learning & Sensing Systems
