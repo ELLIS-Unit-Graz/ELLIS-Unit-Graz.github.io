@@ -118,12 +118,12 @@ A huge thank you to Ralph Stöckl (SimplyAI FlexCo), Samuel Ziegler (vetosec), L
 {% capture text %}
 
 The ELLIS Unit Graz co-organized two workshops at the **Austrian Symposium on AI, Robotics and Vision (AIROV), April 13–15, 2026 in Leoben**. 
-One of our workshops was on [Current Trends and Future Potential: Spiking Neural Networks](https://airov.at/2026/workshop/SSNSys) and the second one on [Physics-Informed Machine Learning and Hybrid Modelling](https://airov.at/2026/workshop/PhysicsML.html).
+One of our workshops was on **Current Trends and Future Potential: Spiking Neural Networks** and the second one on **Physics-Informed Machine Learning and Hybrid Modelling**.
 
 {%
   include button.html
   link="events/workshopsairov2026"
-  text="More info and pictures"
+  text="More info, recap, and pictures"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
