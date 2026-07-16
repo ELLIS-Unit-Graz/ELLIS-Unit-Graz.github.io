@@ -67,7 +67,7 @@ Our reading group, in collaboration with the [ELLIS Unit NRW](https://ellis.eu/r
 {% capture text %}
 
 On June 17, GraML and the ELLIS Unit Graz hosted a Poster Session for the AI community at TU Graz to celebrate recent work, foster the scientific exchange within our network and strengthen our internal collaboration.
-This event was part of the [ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate](https://ellis.eu/events/ellis-sites-icml-fest-2026).
+This event was part of the ELLIS Sites ICML Fest 2026: Celebrate, Connect, Collaborate.
 
 {%
   include button.html
