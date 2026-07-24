@@ -11,12 +11,13 @@ nav:
 
 {% capture text %}
 
-**News:** As of July 2026, the ELLIS Unit Graz is an official member of the ELIAS Virtual Centre of Excellence. The European Lighthouse of AI for Systainability (ELIAS) connects researchers in academia with practitioners in the industry to differentiate Europe as a region where AI research builds towards a sustainable long-term future for our planet, contributes to a cohesive society, and respects individual preferences and rights.
+Our unit will co-host the workshop **AXIOM: Foundations of Efficient Deep Learning** at **NeurIPS 2026 in Paris** on **December 12-13, 2026**. Expect a collaborative workshop towards predictive principles for efficient AI connecting deep learning theory, scaling laws, and efficiency. 
+Paper submission deadline is on **August 29, 2026**.
 
 {%
   include button.html
-  link="https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/"
-  text="More information"
+  link="https://axiom-neurips2026.github.io"
+  text="More information and call for papers"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,9 +27,9 @@ nav:
 
 {%
   include feature.html
-  image="images/elias_add.png"
-  link="https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/"
-  title="Member of the ELIAS Virtual Centre of Excellence"
+  image="images/workshopneurips2026.jpg"
+  link="https://axiom-neurips2026.github.io"
+  title="Workshop AXIOM at NeurIPS 2026 in Paris"
   flip=true
   style="bare"
   text=text
@@ -63,6 +64,32 @@ Our reading group, in collaboration with the [ELLIS Unit NRW](https://ellis.eu/r
 {% include section.html %}
 
 ## In the past
+
+{% capture text %}
+
+**News:** As of July 2026, the ELLIS Unit Graz is an official member of the ELIAS Virtual Centre of Excellence. The European Lighthouse of AI for Systainability (ELIAS) connects researchers in academia with practitioners in the industry to differentiate Europe as a region where AI research builds towards a sustainable long-term future for our planet, contributes to a cohesive society, and respects individual preferences and rights.
+
+{%
+  include button.html
+  link="https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/"
+  text="More information"
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/elias_add.png"
+  link="https://elias-ai.eu/news/elias-network-expands-virtual-centre-of-excellence-to-advance-sustainable-and-trustworthy-ai-across-europe/"
+  title="Member of the ELIAS Virtual Centre of Excellence"
+  flip=false
+  style="bare"
+  text=text
+%}
+
 
 {% capture text %}
 
