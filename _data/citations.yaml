@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s42256-026-01254-4
+  title: Neural sampling from cognitive maps enables goal-directed imagination and
+    planning
+  authors:
+  - Hui Lin
+  - Yukun Yang
+  - Rong Zhao
+  - Giovanni Pezzulo
+  - Wolfgang Maass
+  publisher: Nature Machine Intelligence
+  date: '2026-07-21'
+  link: https://doi.org/hccgrp
+  orcid: 0000-0002-1178-087X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.10.25.684594
   title: Episodic memories make goal directed action selection context-aware and explainable
   authors:
