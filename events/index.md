@@ -11,7 +11,7 @@ nav:
 
 {% capture text %}
 
-Our unit will co-host the workshop **AXIOM: Foundations of Efficient Deep Learning** at **NeurIPS 2026 in Paris** on **December 12-13, 2026**. Expect a collaborative workshop towards predictive principles for efficient AI connecting deep learning theory, scaling laws, and efficiency. 
+Together with the ELLIS Unit NRW and the ELLIS Unit Lausanne, we will co-host the workshop **AXIOM: Foundations of Efficient Deep Learning** at **NeurIPS 2026 in Paris** on **December 12-13, 2026**. Expect a collaborative workshop towards predictive principles for efficient AI connecting deep learning theory, scaling laws, and efficiency. 
 Paper submission deadline is on **August 29, 2026**.
 
 {%
