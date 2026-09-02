@@ -11,7 +11,7 @@ nav:
 
 {% capture text %}
 
-**News:** New paper out from our Unit Researchers Wolfgang Maass und Yukun Yang in Nature Machine Intelligence on an alternative approach for certain AI applications, inspired by the brain, that allows for flexible planning and problem-solving. 
+**News:** New paper out from our Unit Researchers Wolfgang Maass und Yukun Yang in Nature Machine Intelligence! They present an alternative brain-inspired approach for certain AI applications that allows for flexible planning and problem-solving. 
 
 {%
   include button.html
@@ -28,7 +28,7 @@ nav:
   include feature.html
   image="images/1.png"
   link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
-  title="Brain-inspired AI is capable of flexible planning an problem-solving"
+  title="Brain-inspired AI is capable of flexible planning and problem-solving"
   flip=true
   style="bare"
   text=text
