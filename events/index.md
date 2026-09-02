@@ -11,6 +11,33 @@ nav:
 
 {% capture text %}
 
+**News:** New paper out from our Unit Researchers Wolfgang Maass und Yukun Yang in Nature Machine Intelligence on an alternative approach for certain AI applications, inspired by the brain, that allows for flexible planning and problem-solving. 
+
+{%
+  include button.html
+  link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
+  text="Read the news article from TU Graz here"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/1.png"
+  link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
+  title="Brain-inspired AI is capable of flexible planning an problem-solving"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+
+{% capture text %}
+
 Together with the ELLIS Unit NRW and the ELLIS Unit Lausanne, we will co-host the workshop **AXIOM: Foundations of Efficient Deep Learning** at **NeurIPS 2026 in Paris** on **December 12-13, 2026**. Expect a collaborative workshop towards predictive principles for efficient AI connecting deep learning theory, scaling laws, and efficiency. 
 Paper submission deadline is on **August 29, 2026**.
 
