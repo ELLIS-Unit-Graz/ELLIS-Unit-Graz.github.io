@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-026-76102-5
+  title: The inherent capacity of neurons to learn order relations and support abstract
+    reasoning
+  authors:
+  - Yukun Yang
+  - Wolfgang Maass
+  publisher: Nature Communications
+  date: '2026-08-05'
+  link: https://doi.org/hcd7xv
+  orcid: 0000-0002-1178-087X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s42256-026-01254-4
   title: Neural sampling from cognitive maps enables goal-directed imagination and
     planning
