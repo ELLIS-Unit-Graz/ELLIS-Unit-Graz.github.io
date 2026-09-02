@@ -26,7 +26,7 @@ nav:
 
 {%
   include feature.html
-  image="Wolfgang_Maass_by-lunghammer-tugraz.jpg"
+  image="images/Wolfgang_Maass_by-lunghammer-tugraz.jpg"
   link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
   title="Brain-inspired AI is capable of flexible planning and problem-solving"
   flip=true
