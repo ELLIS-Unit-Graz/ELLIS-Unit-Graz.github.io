@@ -28,7 +28,7 @@ Registration and poster submission are possible until **November 25, 2026**.
 
 {%
   include feature.html
-  image="images/2026cookies.jpg"
+  image="images/2026cookies.png"
   link="https://cloud.tugraz.at/index.php/apps/forms/s/e5a2gQ5cRNfFP4BTz3XJzEnW"
   title="Cookies with GraML & ELLIS Sites NeurIPS Fest 2026"
   flip=true
