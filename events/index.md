@@ -11,12 +11,14 @@ nav:
 
 {% capture text %}
 
-**News:** New paper out from our Unit Researchers Wolfgang Maass und Yukun Yang in Nature Machine Intelligence! They present an alternative brain-inspired approach for certain AI applications that allows for flexible planning and problem-solving. (Image source: Lunghammer-TU Graz)
+On **December 10, 2026**, the **ELLIS Sites NeurIPS Fest 2026** meets the mini-conference **Cookies with GraML**. Expect several lightning talks on **"AI for Science"** followed by a **poster session** with ample time to celebrate, connect, collaborate (and eat cookies).
+
+Registration and poster submission are possible until **November 25, 2026**.
 
 {%
   include button.html
-  link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
-  text="Read the news article from TU Graz here"
+  link="https://cloud.tugraz.at/index.php/apps/forms/s/e5a2gQ5cRNfFP4BTz3XJzEnW"
+  text="Register now"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,14 +28,13 @@ nav:
 
 {%
   include feature.html
-  image="images/Wolfgang_Maass_by-lunghammer-tugraz.jpg"
-  link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
-  title="Brain-inspired AI is capable of flexible planning and problem-solving"
+  image="images/2026cookies.jpg"
+  link="https://cloud.tugraz.at/index.php/apps/forms/s/e5a2gQ5cRNfFP4BTz3XJzEnW"
+  title="Cookies with GraML & ELLIS Sites NeurIPS Fest 2026"
   flip=true
   style="bare"
   text=text
 %}
-
 
 
 {% capture text %}
@@ -91,6 +92,32 @@ Our reading group, in collaboration with the [ELLIS Unit NRW](https://ellis.eu/r
 {% include section.html %}
 
 ## In the past
+
+{% capture text %}
+
+**News:** New paper out from our Unit Researchers Wolfgang Maass und Yukun Yang in Nature Machine Intelligence! They present an alternative brain-inspired approach for certain AI applications that allows for flexible planning and problem-solving. (Image source: Lunghammer-TU Graz)
+
+{%
+  include button.html
+  link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
+  text="Read the news article from TU Graz here"
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Wolfgang_Maass_by-lunghammer-tugraz.jpg"
+  link="https://www.tugraz.at/en/news/article/brain-inspired-ai"
+  title="Brain-inspired AI is capable of flexible planning and problem-solving"
+  flip=false
+  style="bare"
+  text=text
+%}
+
 
 {% capture text %}
 
