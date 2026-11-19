@@ -11,14 +11,13 @@ nav:
 
 {% capture text %}
 
-On **December 10, 2026**, the **ELLIS Sites NeurIPS Fest 2026** meets the mini-conference **Cookies with GraML**. Expect several lightning talks on **"AI for Science"** followed by a **poster session** with ample time to celebrate, connect, collaborate (and eat cookies).
-
+Together with the Graz Research Center for Machine Learning (GraML), we will co-host a mini-conference Cookies with GraML: AI for Science together with our ELLIS Sites NeurIPS Fest 2026 on **December 10, 2026**. We will have 7 lightning talks in the morning and a poster session to foster local collaboration and connection.
 Registration and poster submission are possible until **November 25, 2026**.
 
 {%
   include button.html
   link="https://cloud.tugraz.at/index.php/apps/forms/s/e5a2gQ5cRNfFP4BTz3XJzEnW"
-  text="Register now"
+  text="More information and call for posters"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,7 +27,7 @@ Registration and poster submission are possible until **November 25, 2026**.
 
 {%
   include feature.html
-  image="images/2026cookies.png"
+  image="images/workshopneurips2026.jpg"
   link="https://cloud.tugraz.at/index.php/apps/forms/s/e5a2gQ5cRNfFP4BTz3XJzEnW"
   title="Cookies with GraML & ELLIS Sites NeurIPS Fest 2026"
   flip=true
