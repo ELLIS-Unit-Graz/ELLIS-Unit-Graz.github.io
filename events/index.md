@@ -18,7 +18,7 @@ Registration and poster submission are possible until **November 25, 2026**.
 {%
   include button.html
   link="https://cloud.tugraz.at/index.php/apps/forms/s/e5a2gQ5cRNfFP4BTz3XJzEnW"
-  text="Register now"
+  text="Register now!"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
